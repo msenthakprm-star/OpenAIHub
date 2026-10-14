@@ -67,8 +67,8 @@ footer{max-width:1100px;margin:0 auto;padding:0 20px 40px;color:var(--mut);font-
 <main id="out"></main>
 <main id="upd" hidden><h2>Latest open-source AI updates</h2><p class="sub">Newest first. Each item links to the source it came from.</p><div id="ul">Loading...</div></main>
 <footer>Licenses and commands are summarized from each project's README and can change. Always check the repository before use.</footer>
-<button class="fab" id="fab" hidden>Ask the guide</button>
-<section id="chat" aria-label="Ask the guide"><div id="log"><div class="m a">Ask me about any project here, how to install it, or which one fits your task.</div></div>
+<button class="fab" id="fab">Ask the guide</button>
+<section id="chat" aria-label="Ask the guide"><div id="log"><div class="m a">Ask about any project here. Without Claude available I match keywords in the directory instead.</div></div>
 <div id="cf"><input id="ci" placeholder="Ask a question" aria-label="Your question"><button class="copy" id="cs">Send</button></div></section>
 <button class="fab fab2" id="devfab" hidden>Developer</button>
 <section id="dev" aria-label="Developer agent"><strong>Developer agent (owner only)</strong><div id="dl"></div>
@@ -151,7 +151,8 @@ var chat=document.getElementById("chat"),log=document.getElementById("log"),ci=d
 if(window.claude)claude.use("sample").then(function(x){if(x){smp=x;fab.hidden=false}});
 fab.onclick=function(){chat.classList.toggle("on");ci.focus()};
 function add(c,t){var d=document.createElement("div");d.className="m "+c;d.textContent=t;log.appendChild(d);log.scrollTop=1e9;return d}
-function ask(){var t=ci.value.trim();if(!t||busy||!smp)return;ci.value="";add("u",t);busy=1;var el=add("a","Thinking...");
+function local(t){var w=t.toLowerCase().split(/\W+/).filter(function(x){return x.length>2}),res=[];D.forEach(function(d){d[2].forEach(function(r){var h=(d[0]+" "+r.slice(0,5).join(" ")).toLowerCase(),s=0;w.forEach(function(x){if(h.indexOf(x)>-1)s++});if(s)res.push([s,r])})});res.sort(function(a,b){return b[0]-a[0]});if(!res.length)return"No match found. Try words like vector, whisper, fine-tune or agent.";return res.slice(0,3).map(function(x){var r=x[1];return r[0]+" ("+r[2]+"): "+r[3]+"\n"+r[4].split("\n")[0]}).join("\n\n")}
+function ask(){var t=ci.value.trim();if(!t||busy)return;ci.value="";add("u",t);busy=1;var el=add("a","Thinking...");if(!smp){el.textContent=local(t);busy=0;return}
 hist.push({role:"user",content:t});
 var sys="You are the guide for Open AI Hub, a directory of open-source AI projects. Answer only questions about this site and the projects listed in the catalog below: what a project is, its license, how to install and use it, and which fits a task. Be brief and practical. If something is not in the catalog, say so and suggest the user check the project's repository. Do not invent commands or links.\nCATALOG (name | link | license | description | usage):\n"+D.map(function(d){return "## "+d[0]+"\n"+d[2].map(function(r){return r.slice(0,5).join(" | ")}).join("\n")}).join("\n");
 smp(sys+"\n\n"+hist.map(function(m){return (m.role==="user"?"User: ":"Guide: ")+m.content}).join("\n")+"\nGuide:",{cache:false,onText:function(o){el.textContent=o.text}}).then(function(r){hist.push({role:"assistant",content:r.text});el.textContent=r.text}).catch(function(e){el.textContent=e&&e.code==="not_granted"?"The guide needs permission to run. Reload and allow it.":"The guide could not answer. Try again in a moment."}).then(function(){busy=0})}
@@ -160,7 +161,7 @@ document.getElementById("cs").onclick=ask;ci.onkeydown=function(e){if(e.key==="E
 var devDb=null,dev=document.getElementById("dev"),dl=document.getElementById("dl"),dt=document.getElementById("dt");
 function listReq(){devDb.collection("devrequests").get().then(function(sn){var a=sn.docs.map(function(d){return d.data()}).sort(function(x,y){return y.at-x.at});
 dl.innerHTML=a.length?a.map(function(x){return "<div class='m a'><b>"+esc(x.status||"pending")+"</b>: "+esc(x.text)+"</div>"}).join(""):"<div class='m a'>No requests yet.</div>"}).catch(function(){dl.textContent="Could not load requests."})}
-if(window.claude)claude.use("user").then(function(u){if(!u||!u.isOwner())return;claude.use("db").then(function(db){if(!db)return;devDb=db;var b=document.getElementById("devfab");b.hidden=false;b.onclick=function(){dev.classList.toggle("on");listReq()}})});
+if(window.claude)claude.use("user").then(function(u){if(!u)return;u.isOwner().then(function(o){if(!o)return;claude.use("db").then(function(db){if(!db)return;devDb=db;var b=document.getElementById("devfab");b.hidden=false;b.onclick=function(){dev.classList.toggle("on");listReq()}})})});
 document.getElementById("ds").onclick=function(){var t=dt.value.trim();if(!t||!devDb)return;devDb.doc("devrequests/r"+Date.now()).set({text:t,status:"pending",at:Date.now()}).then(function(){dt.value="";listReq()}).catch(function(){dl.textContent="Could not save. Are you signed in as the owner?"})};
 
 var upd=document.getElementById("upd"),ul=document.getElementById("ul");
