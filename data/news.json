@@ -1,0 +1,247 @@
+[
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/google/embeddinggemma-2",
+  "title": "Trending on Hugging Face: google/embeddinggemma-2",
+  "summary": "Task: feature-extraction. 2173 likes, 135175 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/jialinyyzz/humanizer",
+  "title": "Trending on Hugging Face: jialinyyzz/humanizer",
+  "summary": "Task: text-generation. 1576 likes, 65616 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+  "title": "Trending on Hugging Face: Qwen/Qwen-Image-2.1-Turbo",
+  "summary": "Task: text-to-image. 740 likes, 12704 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+  "title": "Trending on Hugging Face: abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+  "summary": "Task: text-to-image. 4250 likes, 2315771 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+  "title": "Trending on Hugging Face: openbmb/MiniCPM-V-4.7-35B-A3B",
+  "summary": "Task: image-text-to-text. 528 likes, 4157 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/autotrust/JEV-35B",
+  "title": "Trending on Hugging Face: autotrust/JEV-35B",
+  "summary": "Task: text-classification. 712 likes, 27970 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Lightricks/LTX-2.5",
+  "title": "Trending on Hugging Face: Lightricks/LTX-2.5",
+  "summary": "Task: image-to-video. 7711 likes, 1823507 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+  "title": "Trending on Hugging Face: ConwayResearch/Underdog-Saluki-27B-1.0",
+  "summary": "Task: text-generation. 441 likes, 311969 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+  "title": "Trending on Hugging Face: AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+  "summary": "Task: text-to-image. 433 likes, 258320 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/LiquidAI/d1-3B",
+  "title": "Trending on Hugging Face: LiquidAI/d1-3B",
+  "summary": "Task: image-text-to-text. 387 likes, 14854 downloads."
+ },
+ {
+  "date": "2026-10-13",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-13",
+  "tag": "New repo",
+  "url": "https://github.com/outcrawlai/scout",
+  "title": "New repo: outcrawlai/scout (316 stars)",
+  "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository."
+ },
+ {
+  "date": "2026-10-12",
+  "tag": "New repo",
+  "url": "https://github.com/deeplethe/solid-glass",
+  "title": "New repo: deeplethe/solid-glass (580 stars)",
+  "summary": "A design system for AI applications. Material, physical, tactile, technical."
+ },
+ {
+  "date": "2026-10-11",
+  "tag": "New repo",
+  "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+  "title": "New repo: onehumanbeing/esp32-iphone-agent (1920 stars)",
+  "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+ },
+ {
+  "date": "2026-10-10",
+  "tag": "New repo",
+  "url": "https://github.com/rociiu/talorys",
+  "title": "New repo: rociiu/talorys (979 stars)",
+  "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry."
+ },
+ {
+  "date": "2026-10-09",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "title": "Impactful scheduling for GPU clusters",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-09",
+  "tag": "New repo",
+  "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
+  "title": "New repo: BlenderGPT3D/blender-ai-addon (211 stars)",
+  "summary": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code"
+ },
+ {
+  "date": "2026-10-08",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/building-with-ml-intern",
+  "title": "The model that didn't exist, so you made it yourself",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-07",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "title": "Introducing Falcon ASR",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-07",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-06",
+  "tag": "New repo",
+  "url": "https://github.com/LosaLosSantos/aurelio-finance",
+  "title": "New repo: LosaLosSantos/aurelio-finance (3380 stars)",
+  "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer."
+ },
+ {
+  "date": "2026-10-06",
+  "tag": "New repo",
+  "url": "https://github.com/mw00/project-maya",
+  "title": "New repo: mw00/project-maya (798 stars)",
+  "summary": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools."
+ },
+ {
+  "date": "2026-10-06",
+  "tag": "New repo",
+  "url": "https://github.com/iamlukethedev/Herald-OS",
+  "title": "New repo: iamlukethedev/Herald-OS (489 stars)",
+  "summary": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research."
+ },
+ {
+  "date": "2026-10-04",
+  "tag": "New repo",
+  "url": "https://github.com/TannerMidd/pi-pocket",
+  "title": "New repo: TannerMidd/pi-pocket (399 stars)",
+  "summary": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable"
+ },
+ {
+  "date": "2026-10-03",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-03",
+  "tag": "New repo",
+  "url": "https://github.com/jiwoochris/artex-global",
+  "title": "New repo: jiwoochris/artex-global (1474 stars)",
+  "summary": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)"
+ },
+ {
+  "date": "2026-10-02",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-02",
+  "tag": "New repo",
+  "url": "https://github.com/QingYunA/answer-me-with-html",
+  "title": "New repo: QingYunA/answer-me-with-html (3336 stars)",
+  "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+ },
+ {
+  "date": "2026-10-02",
+  "tag": "New repo",
+  "url": "https://github.com/Harvil1/codeAgent",
+  "title": "New repo: Harvil1/codeAgent (573 stars)",
+  "summary": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a..."
+ },
+ {
+  "date": "2026-10-02",
+  "tag": "New repo",
+  "url": "https://github.com/whirlchat/whirl",
+  "title": "New repo: whirlchat/whirl (508 stars)",
+  "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
+ },
+ {
+  "date": "2026-10-02",
+  "tag": "New repo",
+  "url": "https://github.com/strands-agents/box",
+  "title": "New repo: strands-agents/box (399 stars)",
+  "summary": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent...."
+ },
+ {
+  "date": "2026-10-02",
+  "tag": "New repo",
+  "url": "https://github.com/opensec-git/Pi-Bolt",
+  "title": "New repo: opensec-git/Pi-Bolt (325 stars)",
+  "summary": "Pi, the coding agent, compiled ahead of time to native code. Starts 3× sooner than Pi on Bun and uses about a third of its CPU."
+ },
+ {
+  "date": "2026-09-30",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/open-tts-leaderboard",
+  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "summary": ""
+ },
+ {
+  "date": "2026-09-29",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "summary": ""
+ },
+ {
+  "date": "2026-09-28",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/Hcompany/holo4",
+  "title": "Holo4: powering generalist computer-use agents",
+  "summary": ""
+ }
+]

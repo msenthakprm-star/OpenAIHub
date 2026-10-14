@@ -1,0 +1,122 @@
+[
+ {
+  "name": "aurelio-finance",
+  "url": "LosaLosSantos/aurelio-finance",
+  "license": "MIT",
+  "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+  "usage": "git clone https://github.com/LosaLosSantos/aurelio-finance.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "answer-me-with-html",
+  "url": "QingYunA/answer-me-with-html",
+  "license": "MIT",
+  "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+  "usage": "git clone https://github.com/QingYunA/answer-me-with-html.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "esp32-iphone-agent",
+  "url": "onehumanbeing/esp32-iphone-agent",
+  "license": "MIT",
+  "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+  "usage": "git clone https://github.com/onehumanbeing/esp32-iphone-agent.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "artex-global",
+  "url": "jiwoochris/artex-global",
+  "license": "AGPL-3.0",
+  "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+  "usage": "git clone https://github.com/jiwoochris/artex-global.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "project-maya",
+  "url": "mw00/project-maya",
+  "license": "MIT",
+  "desc": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+  "usage": "git clone https://github.com/mw00/project-maya.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "solid-glass",
+  "url": "deeplethe/solid-glass",
+  "license": "MIT",
+  "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+  "usage": "git clone https://github.com/deeplethe/solid-glass.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "codeAgent",
+  "url": "Harvil1/codeAgent",
+  "license": "MIT",
+  "desc": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a...",
+  "usage": "git clone https://github.com/Harvil1/codeAgent.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "whirl",
+  "url": "whirlchat/whirl",
+  "license": "MIT",
+  "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+  "usage": "git clone https://github.com/whirlchat/whirl.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "box",
+  "url": "strands-agents/box",
+  "license": "Apache-2.0",
+  "desc": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent....",
+  "usage": "git clone https://github.com/strands-agents/box.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "blender-ai-addon",
+  "url": "BlenderGPT3D/blender-ai-addon",
+  "license": "MIT",
+  "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+  "usage": "git clone https://github.com/BlenderGPT3D/blender-ai-addon.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "talorys",
+  "url": "rociiu/talorys",
+  "license": "MIT",
+  "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+  "usage": "git clone https://github.com/rociiu/talorys.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "Herald-OS",
+  "url": "iamlukethedev/Herald-OS",
+  "license": "MIT",
+  "desc": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+  "usage": "git clone https://github.com/iamlukethedev/Herald-OS.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "pi-pocket",
+  "url": "TannerMidd/pi-pocket",
+  "license": "MIT",
+  "desc": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+  "usage": "git clone https://github.com/TannerMidd/pi-pocket.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "Pi-Bolt",
+  "url": "opensec-git/Pi-Bolt",
+  "license": "MIT",
+  "desc": "Pi, the coding agent, compiled ahead of time to native code. Starts 3× sooner than Pi on Bun and uses about a third of its CPU.",
+  "usage": "git clone https://github.com/opensec-git/Pi-Bolt.git\n# see the README for setup",
+  "found": "2026-10-14"
+ },
+ {
+  "name": "scout",
+  "url": "outcrawlai/scout",
+  "license": "Apache-2.0",
+  "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+  "usage": "git clone https://github.com/outcrawlai/scout.git\n# see the README for setup",
+  "found": "2026-10-14"
+ }
+]
