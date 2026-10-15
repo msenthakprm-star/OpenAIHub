@@ -1,5 +1,13 @@
 [
  {
+  "name": "AILearningGuide",
+  "url": "Fazmin/AILearningGuide",
+  "license": "MIT",
+  "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+  "usage": "git clone https://github.com/Fazmin/AILearningGuide.git\n# see the README for setup",
+  "found": "2026-10-15"
+ },
+ {
   "name": "aurelio-finance",
   "url": "LosaLosSantos/aurelio-finance",
   "license": "MIT",

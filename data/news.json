@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-15",
+  "tag": "Trending",
+  "url": "https://huggingface.co/fishaudio/drama-3",
+  "title": "Trending on Hugging Face: fishaudio/drama-3",
+  "summary": "Task: text-to-speech. 375 likes, 4048 downloads."
+ },
+ {
   "date": "2026-10-14",
   "tag": "Trending",
   "url": "https://huggingface.co/google/embeddinggemma-2",
@@ -68,6 +75,13 @@
   "url": "https://huggingface.co/LiquidAI/d1-3B",
   "title": "Trending on Hugging Face: LiquidAI/d1-3B",
   "summary": "Task: image-text-to-text. 387 likes, 14854 downloads."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "summary": ""
  },
  {
   "date": "2026-10-13",
@@ -159,6 +173,13 @@
   "url": "https://github.com/iamlukethedev/Herald-OS",
   "title": "New repo: iamlukethedev/Herald-OS (489 stars)",
   "summary": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research."
+ },
+ {
+  "date": "2026-10-05",
+  "tag": "New repo",
+  "url": "https://github.com/Fazmin/AILearningGuide",
+  "title": "New repo: Fazmin/AILearningGuide (176 stars)",
+  "summary": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more."
  },
  {
   "date": "2026-10-04",
