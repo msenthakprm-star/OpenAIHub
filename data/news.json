@@ -1,10 +1,52 @@
 [
  {
+  "date": "2026-10-16",
+  "tag": "Trending",
+  "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+  "title": "Trending on Hugging Face: LiquidAI/LFM2.5-24B-A2B",
+  "summary": "Task: text-generation. 404 likes, 9356 downloads."
+ },
+ {
+  "date": "2026-10-16",
+  "tag": "Trending",
+  "url": "https://huggingface.co/baidu/Unlimited-OCR",
+  "title": "Trending on Hugging Face: baidu/Unlimited-OCR",
+  "summary": "Task: image-text-to-text. 4725 likes, 1262307 downloads."
+ },
+ {
+  "date": "2026-10-16",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "summary": ""
+ },
+ {
   "date": "2026-10-15",
   "tag": "Trending",
   "url": "https://huggingface.co/fishaudio/drama-3",
   "title": "Trending on Hugging Face: fishaudio/drama-3",
   "summary": "Task: text-to-speech. 375 likes, 4048 downloads."
+ },
+ {
+  "date": "2026-10-15",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-15",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-15",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/flux-3",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "summary": ""
  },
  {
   "date": "2026-10-14",
@@ -98,6 +140,13 @@
   "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository."
  },
  {
+  "date": "2026-10-13",
+  "tag": "New repo",
+  "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+  "title": "New repo: heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit (269 stars)",
+  "summary": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例"
+ },
+ {
   "date": "2026-10-12",
   "tag": "New repo",
   "url": "https://github.com/deeplethe/solid-glass",
@@ -119,6 +168,20 @@
   "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry."
  },
  {
+  "date": "2026-10-10",
+  "tag": "New repo",
+  "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+  "title": "New repo: Ayzzz123/mcd-coupon-strategist (368 stars)",
+  "summary": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。"
+ },
+ {
+  "date": "2026-10-10",
+  "tag": "New repo",
+  "url": "https://github.com/NousResearch/hermes-official-plugins",
+  "title": "New repo: NousResearch/hermes-official-plugins (298 stars)",
+  "summary": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog."
+ },
+ {
   "date": "2026-10-09",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -133,11 +196,39 @@
   "summary": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code"
  },
  {
+  "date": "2026-10-09",
+  "tag": "New repo",
+  "url": "https://github.com/hitkeeen/blender-ai-addon",
+  "title": "New repo: hitkeeen/blender-ai-addon (215 stars)",
+  "summary": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code"
+ },
+ {
+  "date": "2026-10-09",
+  "tag": "New repo",
+  "url": "https://github.com/hujjun/mcd-saver-strategist",
+  "title": "New repo: hujjun/mcd-saver-strategist (462 stars)",
+  "summary": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品"
+ },
+ {
+  "date": "2026-10-09",
+  "tag": "New repo",
+  "url": "https://github.com/liyupi/ai-promo-video-maker",
+  "title": "New repo: liyupi/ai-promo-video-maker (300 stars)",
+  "summary": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion +..."
+ },
+ {
   "date": "2026-10-08",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/building-with-ml-intern",
   "title": "The model that didn't exist, so you made it yourself",
   "summary": ""
+ },
+ {
+  "date": "2026-10-08",
+  "tag": "New repo",
+  "url": "https://github.com/trhhubsd/ARTEX",
+  "title": "New repo: trhhubsd/ARTEX (1204 stars)",
+  "summary": "ARTEX，AI 自主渗透测试系统。百度 agent+ 攻防挑战赛冠军项目。"
  },
  {
   "date": "2026-10-07",
@@ -152,6 +243,13 @@
   "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
   "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
   "summary": ""
+ },
+ {
+  "date": "2026-10-07",
+  "tag": "New repo",
+  "url": "https://github.com/xcisxc29/dsh-wechat",
+  "title": "New repo: xcisxc29/dsh-wechat (201 stars)",
+  "summary": "WeChat channel for DeepSeek Harness"
  },
  {
   "date": "2026-10-06",
