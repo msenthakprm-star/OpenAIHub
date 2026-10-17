@@ -1,5 +1,29 @@
 [
  {
+  "name": "blender-ai-mcp-addon",
+  "url": "anujasid/blender-ai-mcp-addon",
+  "license": "MIT",
+  "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+  "usage": "git clone https://github.com/anujasid/blender-ai-mcp-addon.git\n# see the README for setup",
+  "found": "2026-10-17"
+ },
+ {
+  "name": "textfold",
+  "url": "chenxiachan/textfold",
+  "license": "Apache-2.0",
+  "desc": "Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.",
+  "usage": "git clone https://github.com/chenxiachan/textfold.git\n# see the README for setup",
+  "found": "2026-10-17"
+ },
+ {
+  "name": "artex-ko-plus",
+  "url": "bdg9412/artex-ko-plus",
+  "license": "AGPL-3.0",
+  "desc": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+  "usage": "git clone https://github.com/bdg9412/artex-ko-plus.git\n# see the README for setup",
+  "found": "2026-10-17"
+ },
+ {
   "name": "mcd-coupon-strategist",
   "url": "Ayzzz123/mcd-coupon-strategist",
   "license": "MIT",

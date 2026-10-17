@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-10-17",
+  "tag": "Trending",
+  "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+  "title": "Trending on Hugging Face: black-forest-labs/flux-3-image-klein-comfy",
+  "summary": "Task: image-to-image. 534 likes, 224108 downloads."
+ },
+ {
+  "date": "2026-10-17",
+  "tag": "Trending",
+  "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+  "title": "Trending on Hugging Face: meta-models/Muse-Spark-Open-816B-A42B",
+  "summary": "Task: image-text-to-text. 464 likes, 1600 downloads."
+ },
+ {
   "date": "2026-10-16",
   "tag": "Trending",
   "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
@@ -18,6 +32,13 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-16",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
   "summary": ""
  },
  {
@@ -47,6 +68,13 @@
   "url": "https://huggingface.co/blog/flux-3",
   "title": "Welcome FLUX.3 Image Klein in Diffusers",
   "summary": ""
+ },
+ {
+  "date": "2026-10-15",
+  "tag": "New repo",
+  "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+  "title": "New repo: anujasid/blender-ai-mcp-addon (367 stars)",
+  "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
  },
  {
   "date": "2026-10-14",
@@ -217,6 +245,13 @@
   "summary": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion +..."
  },
  {
+  "date": "2026-10-09",
+  "tag": "New repo",
+  "url": "https://github.com/bdg9412/artex-ko-plus",
+  "title": "New repo: bdg9412/artex-ko-plus (191 stars)",
+  "summary": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)"
+ },
+ {
   "date": "2026-10-08",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/building-with-ml-intern",
@@ -285,6 +320,13 @@
   "url": "https://github.com/TannerMidd/pi-pocket",
   "title": "New repo: TannerMidd/pi-pocket (399 stars)",
   "summary": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable"
+ },
+ {
+  "date": "2026-10-04",
+  "tag": "New repo",
+  "url": "https://github.com/chenxiachan/textfold",
+  "title": "New repo: chenxiachan/textfold (317 stars)",
+  "summary": "Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text."
  },
  {
   "date": "2026-10-03",
