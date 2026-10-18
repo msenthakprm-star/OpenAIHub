@@ -1,6 +1,30 @@
 [
  {
   "name": "blender-ai-mcp-addon",
+  "url": "LiCinCan/blender-ai-mcp-addon",
+  "license": "MIT",
+  "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP...",
+  "usage": "git clone https://github.com/LiCinCan/blender-ai-mcp-addon.git\n# see the README for setup",
+  "found": "2026-10-18"
+ },
+ {
+  "name": "open-intelligent-ui",
+  "url": "thesysdev/open-intelligent-ui",
+  "license": "MIT",
+  "desc": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
+  "usage": "git clone https://github.com/thesysdev/open-intelligent-ui.git\n# see the README for setup",
+  "found": "2026-10-18"
+ },
+ {
+  "name": "frametell",
+  "url": "sitor-ai/frametell",
+  "license": "AGPL-3.0",
+  "desc": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
+  "usage": "git clone https://github.com/sitor-ai/frametell.git\n# see the README for setup",
+  "found": "2026-10-18"
+ },
+ {
+  "name": "blender-ai-mcp-addon",
   "url": "anujasid/blender-ai-mcp-addon",
   "license": "MIT",
   "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",

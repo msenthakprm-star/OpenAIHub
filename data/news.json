@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-10-18",
+  "tag": "Trending",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "title": "Trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "summary": "Task: image-text-to-text. 1174 likes, 10233 downloads."
+ },
+ {
+  "date": "2026-10-18",
+  "tag": "Trending",
+  "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+  "title": "Trending on Hugging Face: black-forest-labs/flux-3-image-klein",
+  "summary": "Task: image-to-image. 466 likes, 52315 downloads."
+ },
+ {
   "date": "2026-10-17",
   "tag": "Trending",
   "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
@@ -75,6 +89,13 @@
   "url": "https://github.com/anujasid/blender-ai-mcp-addon",
   "title": "New repo: anujasid/blender-ai-mcp-addon (367 stars)",
   "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
+ },
+ {
+  "date": "2026-10-15",
+  "tag": "New repo",
+  "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+  "title": "New repo: LiCinCan/blender-ai-mcp-addon (716 stars)",
+  "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP..."
  },
  {
   "date": "2026-10-14",
@@ -210,6 +231,13 @@
   "summary": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog."
  },
  {
+  "date": "2026-10-10",
+  "tag": "New repo",
+  "url": "https://github.com/sitor-ai/frametell",
+  "title": "New repo: sitor-ai/frametell (219 stars)",
+  "summary": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model."
+ },
+ {
   "date": "2026-10-09",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -264,6 +292,13 @@
   "url": "https://github.com/trhhubsd/ARTEX",
   "title": "New repo: trhhubsd/ARTEX (1204 stars)",
   "summary": "ARTEX，AI 自主渗透测试系统。百度 agent+ 攻防挑战赛冠军项目。"
+ },
+ {
+  "date": "2026-10-08",
+  "tag": "New repo",
+  "url": "https://github.com/thesysdev/open-intelligent-ui",
+  "title": "New repo: thesysdev/open-intelligent-ui (529 stars)",
+  "summary": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI."
  },
  {
   "date": "2026-10-07",
