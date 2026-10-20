@@ -1,5 +1,26 @@
 [
  {
+  "date": "2026-10-20",
+  "tag": "Trending",
+  "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+  "title": "Trending on Hugging Face: OpenMOSS-Team/MOSS-Image-SFT",
+  "summary": "Task: text-to-image. 467 likes, 4547 downloads."
+ },
+ {
+  "date": "2026-10-20",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "title": "MPS in PyTorch 2.15",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-19",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/hf-torchneuron",
+  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "summary": ""
+ },
+ {
   "date": "2026-10-18",
   "tag": "Trending",
   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
