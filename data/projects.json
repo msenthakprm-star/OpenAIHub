@@ -1,5 +1,13 @@
 [
  {
+  "name": "mcd-1024-skill",
+  "url": "zhuxian518/mcd-1024-skill",
+  "license": "MIT",
+  "desc": "McDonald's China MCP innovation skill - entry for MCD Developer Innovation Challenge 2026 (1024 Programmers' Day)",
+  "usage": "git clone https://github.com/zhuxian518/mcd-1024-skill.git\n# see the README for setup",
+  "found": "2026-10-21"
+ },
+ {
   "name": "blender-ai-mcp-addon",
   "url": "LiCinCan/blender-ai-mcp-addon",
   "license": "MIT",

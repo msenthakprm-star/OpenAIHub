@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-10-21",
+  "tag": "Trending",
+  "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+  "title": "Trending on Hugging Face: OpenMOSS-Team/MOSS-Image-Base",
+  "summary": "Task: text-to-image. 447 likes, 4344 downloads."
+ },
+ {
+  "date": "2026-10-21",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+  "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+  "summary": ""
+ },
+ {
   "date": "2026-10-20",
   "tag": "Trending",
   "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
@@ -11,6 +25,34 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
   "title": "MPS in PyTorch 2.15",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-20",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/fairstress",
+  "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-20",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-20",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/hf-torchtpu",
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-20",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
   "summary": ""
  },
  {
@@ -306,6 +348,13 @@
   "url": "https://github.com/bdg9412/artex-ko-plus",
   "title": "New repo: bdg9412/artex-ko-plus (191 stars)",
   "summary": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)"
+ },
+ {
+  "date": "2026-10-09",
+  "tag": "New repo",
+  "url": "https://github.com/zhuxian518/mcd-1024-skill",
+  "title": "New repo: zhuxian518/mcd-1024-skill (177 stars)",
+  "summary": "McDonald's China MCP innovation skill - entry for MCD Developer Innovation Challenge 2026 (1024 Programmers' Day)"
  },
  {
   "date": "2026-10-08",
