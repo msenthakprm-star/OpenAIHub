@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-10-23",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+  "title": "Trending on Hugging Face: Comfy-Org/MOSS-Image",
+  "summary": "Task: n/a. 383 likes, 1606363 downloads."
+ },
+ {
+  "date": "2026-10-23",
+  "tag": "Trending",
+  "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+  "title": "Trending on Hugging Face: XHToken/Spark-X2.6-4B",
+  "summary": "Task: text-generation. 386 likes, 1060 downloads."
+ },
+ {
   "date": "2026-10-22",
   "tag": "Trending",
   "url": "https://huggingface.co/RecursiveSI/flint",
@@ -11,6 +25,20 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
   "title": "Ensemble forecasting with IBM Granite time-series models",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-22",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-22",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
   "summary": ""
  },
  {
@@ -217,6 +245,13 @@
   "summary": ""
  },
  {
+  "date": "2026-10-15",
+  "tag": "New repo",
+  "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion",
+  "title": "New repo: ShadowSwaps/REA-Reconstruction-Companion (108 stars)",
+  "summary": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, portable installer, and validation workflows."
+ },
+ {
   "date": "2026-10-14",
   "tag": "Trending",
   "url": "https://huggingface.co/google/embeddinggemma-2",
@@ -322,6 +357,13 @@
   "summary": "A design system for AI applications. Material, physical, tactile, technical."
  },
  {
+  "date": "2026-10-12",
+  "tag": "New repo",
+  "url": "https://github.com/alibaba/qz-browser-agent",
+  "title": "New repo: alibaba/qz-browser-agent (119 stars)",
+  "summary": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model."
+ },
+ {
   "date": "2026-10-11",
   "tag": "New repo",
   "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
@@ -362,6 +404,13 @@
   "url": "https://github.com/HRuiCcc/RuiC-oc-ferry",
   "title": "New repo: HRuiCcc/RuiC-oc-ferry (319 stars)",
   "summary": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口"
+ },
+ {
+  "date": "2026-10-10",
+  "tag": "New repo",
+  "url": "https://github.com/janetom645-coder/mcd-buddy",
+  "title": "New repo: janetom645-coder/mcd-buddy (115 stars)",
+  "summary": "麦门四重奏 McQuartet · 一个 Skill 装四个玩法：修行录 / 团餐指挥官 / 隐藏菜单实验室 / 每日运势签。基于麦当劳中国官方 MCP，187 个测试全绿，离线演示可一键复现。"
  },
  {
   "date": "2026-10-09",

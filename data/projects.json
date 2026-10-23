@@ -1,5 +1,29 @@
 [
  {
+  "name": "qz-browser-agent",
+  "url": "alibaba/qz-browser-agent",
+  "license": "Apache-2.0",
+  "desc": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.",
+  "usage": "git clone https://github.com/alibaba/qz-browser-agent.git\n# see the README for setup",
+  "found": "2026-10-23"
+ },
+ {
+  "name": "mcd-buddy",
+  "url": "janetom645-coder/mcd-buddy",
+  "license": "MIT",
+  "desc": "麦门四重奏 McQuartet · 一个 Skill 装四个玩法：修行录 / 团餐指挥官 / 隐藏菜单实验室 / 每日运势签。基于麦当劳中国官方 MCP，187 个测试全绿，离线演示可一键复现。",
+  "usage": "git clone https://github.com/janetom645-coder/mcd-buddy.git\n# see the README for setup",
+  "found": "2026-10-23"
+ },
+ {
+  "name": "REA-Reconstruction-Companion",
+  "url": "ShadowSwaps/REA-Reconstruction-Companion",
+  "license": "MIT",
+  "desc": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, portable installer, and validation workflows.",
+  "usage": "git clone https://github.com/ShadowSwaps/REA-Reconstruction-Companion.git\n# see the README for setup",
+  "found": "2026-10-23"
+ },
+ {
   "name": "RuiC-oc-ferry",
   "url": "HRuiCcc/RuiC-oc-ferry",
   "license": "MIT",
