@@ -1,5 +1,37 @@
 [
  {
+  "name": "xiryn",
+  "url": "SouravBeraAkaSpeed/xiryn",
+  "license": "MIT",
+  "desc": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+  "usage": "git clone https://github.com/SouravBeraAkaSpeed/xiryn.git\n# see the README for setup",
+  "found": "2026-10-24"
+ },
+ {
+  "name": "agentplay",
+  "url": "Entelligence-AI/agentplay",
+  "license": "Apache-2.0",
+  "desc": "Replay your coding agent sessions as a map and a timeline",
+  "usage": "git clone https://github.com/Entelligence-AI/agentplay.git\n# see the README for setup",
+  "found": "2026-10-24"
+ },
+ {
+  "name": "esp32-thinks",
+  "url": "raullenchai/esp32-thinks",
+  "license": "MIT",
+  "desc": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk.",
+  "usage": "git clone https://github.com/raullenchai/esp32-thinks.git\n# see the README for setup",
+  "found": "2026-10-24"
+ },
+ {
+  "name": "NPCTalk",
+  "url": "christos-antono/NPCTalk",
+  "license": "MIT",
+  "desc": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+  "usage": "git clone https://github.com/christos-antono/NPCTalk.git\n# see the README for setup",
+  "found": "2026-10-24"
+ },
+ {
   "name": "qz-browser-agent",
   "url": "alibaba/qz-browser-agent",
   "license": "Apache-2.0",

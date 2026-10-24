@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-24",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+  "title": "Trending on Hugging Face: Qwen/Qwen3.8-27B",
+  "summary": "Task: image-text-to-text. 18309 likes, 7851161 downloads."
+ },
+ {
   "date": "2026-10-23",
   "tag": "Trending",
   "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
@@ -12,6 +19,20 @@
   "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
   "title": "Trending on Hugging Face: XHToken/Spark-X2.6-4B",
   "summary": "Task: text-generation. 386 likes, 1060 downloads."
+ },
+ {
+  "date": "2026-10-23",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-23",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "summary": ""
  },
  {
   "date": "2026-10-22",
@@ -252,6 +273,13 @@
   "summary": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, portable installer, and validation workflows."
  },
  {
+  "date": "2026-10-15",
+  "tag": "New repo",
+  "url": "https://github.com/christos-antono/NPCTalk",
+  "title": "New repo: christos-antono/NPCTalk (206 stars)",
+  "summary": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example."
+ },
+ {
   "date": "2026-10-14",
   "tag": "Trending",
   "url": "https://huggingface.co/google/embeddinggemma-2",
@@ -329,6 +357,13 @@
   "summary": ""
  },
  {
+  "date": "2026-10-14",
+  "tag": "New repo",
+  "url": "https://github.com/Entelligence-AI/agentplay",
+  "title": "New repo: Entelligence-AI/agentplay (301 stars)",
+  "summary": "Replay your coding agent sessions as a map and a timeline"
+ },
+ {
   "date": "2026-10-13",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -364,11 +399,25 @@
   "summary": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model."
  },
  {
+  "date": "2026-10-12",
+  "tag": "New repo",
+  "url": "https://github.com/raullenchai/esp32-thinks",
+  "title": "New repo: raullenchai/esp32-thinks (253 stars)",
+  "summary": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk."
+ },
+ {
   "date": "2026-10-11",
   "tag": "New repo",
   "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
   "title": "New repo: onehumanbeing/esp32-iphone-agent (1920 stars)",
   "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+ },
+ {
+  "date": "2026-10-11",
+  "tag": "New repo",
+  "url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+  "title": "New repo: SouravBeraAkaSpeed/xiryn (308 stars)",
+  "summary": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram."
  },
  {
   "date": "2026-10-10",
