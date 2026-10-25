@@ -1,10 +1,24 @@
 [
  {
+  "date": "2026-10-25",
+  "tag": "Trending",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+  "title": "Trending on Hugging Face: MiniMaxAI/MiniMax-M3.1-Flash",
+  "summary": "Task: image-text-to-text. 333 likes, 7355 downloads."
+ },
+ {
   "date": "2026-10-24",
   "tag": "Trending",
   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
   "title": "Trending on Hugging Face: Qwen/Qwen3.8-27B",
   "summary": "Task: image-text-to-text. 18309 likes, 7851161 downloads."
+ },
+ {
+  "date": "2026-10-24",
+  "tag": "New repo",
+  "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+  "title": "New repo: rddmwmddr/android-ad-cleaner (374 stars)",
+  "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
  },
  {
   "date": "2026-10-23",
@@ -33,6 +47,13 @@
   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
   "title": "Does Your Model Run on AWS Trainium? Look It Up",
   "summary": ""
+ },
+ {
+  "date": "2026-10-23",
+  "tag": "New repo",
+  "url": "https://github.com/wahaha-potato/mcd-coupon-xray",
+  "title": "New repo: wahaha-potato/mcd-coupon-xray (107 stars)",
+  "summary": "麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。"
  },
  {
   "date": "2026-10-22",
@@ -161,6 +182,20 @@
   "summary": ""
  },
  {
+  "date": "2026-10-19",
+  "tag": "New repo",
+  "url": "https://github.com/C4rohan/Lampline",
+  "title": "New repo: C4rohan/Lampline (252 stars)",
+  "summary": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX."
+ },
+ {
+  "date": "2026-10-19",
+  "tag": "New repo",
+  "url": "https://github.com/kukemc/bili-cli",
+  "title": "New repo: kukemc/bili-cli (211 stars)",
+  "summary": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出"
+ },
+ {
   "date": "2026-10-18",
   "tag": "Trending",
   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -187,6 +222,13 @@
   "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
   "title": "Trending on Hugging Face: meta-models/Muse-Spark-Open-816B-A42B",
   "summary": "Task: image-text-to-text. 464 likes, 1600 downloads."
+ },
+ {
+  "date": "2026-10-17",
+  "tag": "New repo",
+  "url": "https://github.com/eliasbiondo/antirion",
+  "title": "New repo: eliasbiondo/antirion (262 stars)",
+  "summary": "⚡ The fastest open-source AI gateway — one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more."
  },
  {
   "date": "2026-10-16",
@@ -404,6 +446,13 @@
   "url": "https://github.com/raullenchai/esp32-thinks",
   "title": "New repo: raullenchai/esp32-thinks (253 stars)",
   "summary": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk."
+ },
+ {
+  "date": "2026-10-12",
+  "tag": "New repo",
+  "url": "https://github.com/polaris-smart/mcd-agent-gourmet",
+  "title": "New repo: polaris-smart/mcd-agent-gourmet (137 stars)",
+  "summary": "把菜单价换成官方当次核价：一句话说清预算和口味，给你一个答案 + 可复制的点单卡，并算清比另一种点法省多少钱（示例：单品直选 ¥48.50 vs 三件套 ¥36.50，省 ¥12.00/24.7%）。只读 MCP、零依赖 Python、免 Token 网页体验。"
  },
  {
   "date": "2026-10-11",

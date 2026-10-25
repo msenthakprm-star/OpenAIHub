@@ -1,5 +1,53 @@
 [
  {
+  "name": "antirion",
+  "url": "eliasbiondo/antirion",
+  "license": "Apache-2.0",
+  "desc": "⚡ The fastest open-source AI gateway — one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+  "usage": "git clone https://github.com/eliasbiondo/antirion.git\n# see the README for setup",
+  "found": "2026-10-25"
+ },
+ {
+  "name": "Lampline",
+  "url": "C4rohan/Lampline",
+  "license": "Apache-2.0",
+  "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+  "usage": "git clone https://github.com/C4rohan/Lampline.git\n# see the README for setup",
+  "found": "2026-10-25"
+ },
+ {
+  "name": "android-ad-cleaner",
+  "url": "rddmwmddr/android-ad-cleaner",
+  "license": "MIT",
+  "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+  "usage": "git clone https://github.com/rddmwmddr/android-ad-cleaner.git\n# see the README for setup",
+  "found": "2026-10-25"
+ },
+ {
+  "name": "bili-cli",
+  "url": "kukemc/bili-cli",
+  "license": "MIT",
+  "desc": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
+  "usage": "git clone https://github.com/kukemc/bili-cli.git\n# see the README for setup",
+  "found": "2026-10-25"
+ },
+ {
+  "name": "mcd-agent-gourmet",
+  "url": "polaris-smart/mcd-agent-gourmet",
+  "license": "MIT",
+  "desc": "把菜单价换成官方当次核价：一句话说清预算和口味，给你一个答案 + 可复制的点单卡，并算清比另一种点法省多少钱（示例：单品直选 ¥48.50 vs 三件套 ¥36.50，省 ¥12.00/24.7%）。只读 MCP、零依赖 Python、免 Token 网页体验。",
+  "usage": "git clone https://github.com/polaris-smart/mcd-agent-gourmet.git\n# see the README for setup",
+  "found": "2026-10-25"
+ },
+ {
+  "name": "mcd-coupon-xray",
+  "url": "wahaha-potato/mcd-coupon-xray",
+  "license": "MIT",
+  "desc": "麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。",
+  "usage": "git clone https://github.com/wahaha-potato/mcd-coupon-xray.git\n# see the README for setup",
+  "found": "2026-10-25"
+ },
+ {
   "name": "xiryn",
   "url": "SouravBeraAkaSpeed/xiryn",
   "license": "MIT",
@@ -269,54 +317,6 @@
   "license": "Apache-2.0",
   "desc": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent....",
   "usage": "git clone https://github.com/strands-agents/box.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "blender-ai-addon",
-  "url": "BlenderGPT3D/blender-ai-addon",
-  "license": "MIT",
-  "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-  "usage": "git clone https://github.com/BlenderGPT3D/blender-ai-addon.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "talorys",
-  "url": "rociiu/talorys",
-  "license": "MIT",
-  "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-  "usage": "git clone https://github.com/rociiu/talorys.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "Herald-OS",
-  "url": "iamlukethedev/Herald-OS",
-  "license": "MIT",
-  "desc": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
-  "usage": "git clone https://github.com/iamlukethedev/Herald-OS.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "pi-pocket",
-  "url": "TannerMidd/pi-pocket",
-  "license": "MIT",
-  "desc": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-  "usage": "git clone https://github.com/TannerMidd/pi-pocket.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "Pi-Bolt",
-  "url": "opensec-git/Pi-Bolt",
-  "license": "MIT",
-  "desc": "Pi, the coding agent, compiled ahead of time to native code. Starts 3× sooner than Pi on Bun and uses about a third of its CPU.",
-  "usage": "git clone https://github.com/opensec-git/Pi-Bolt.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "scout",
-  "url": "outcrawlai/scout",
-  "license": "Apache-2.0",
-  "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-  "usage": "git clone https://github.com/outcrawlai/scout.git\n# see the README for setup",
   "found": "2026-10-14"
  }
 ]
