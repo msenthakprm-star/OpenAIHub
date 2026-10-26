@@ -1,5 +1,45 @@
 [
  {
+  "name": "scout",
+  "url": "outcrawlai/scout",
+  "license": "Apache-2.0",
+  "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+  "usage": "git clone https://github.com/outcrawlai/scout.git\n# see the README for setup",
+  "found": "2026-10-26"
+ },
+ {
+  "name": "ai-roadmap-2026",
+  "url": "h9-tec/ai-roadmap-2026",
+  "license": "CC-BY-4.0",
+  "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+  "usage": "git clone https://github.com/h9-tec/ai-roadmap-2026.git\n# see the README for setup",
+  "found": "2026-10-26"
+ },
+ {
+  "name": "manga-generator",
+  "url": "stockedge/manga-generator",
+  "license": "MIT",
+  "desc": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール",
+  "usage": "git clone https://github.com/stockedge/manga-generator.git\n# see the README for setup",
+  "found": "2026-10-26"
+ },
+ {
+  "name": "dsh-purge-flash",
+  "url": "jadezane6634-ops/dsh-purge-flash",
+  "license": "MIT",
+  "desc": "DSH稳定高效的破甲插件： 常驻1,597token +零宿主补丁（可与dsh-purge共存）+ 三层技能路由+ 分级 prefill + 拒答自我强化阶梯+ finish_reason 四路分流 状态查询: /flash light",
+  "usage": "git clone https://github.com/jadezane6634-ops/dsh-purge-flash.git\n# see the README for setup",
+  "found": "2026-10-26"
+ },
+ {
+  "name": "Oh-My-McDonald",
+  "url": "xiaozhangup/Oh-My-McDonald",
+  "license": "MIT",
+  "desc": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
+  "usage": "git clone https://github.com/xiaozhangup/Oh-My-McDonald.git\n# see the README for setup",
+  "found": "2026-10-26"
+ },
+ {
   "name": "antirion",
   "url": "eliasbiondo/antirion",
   "license": "Apache-2.0",
@@ -277,46 +317,6 @@
   "license": "AGPL-3.0",
   "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
   "usage": "git clone https://github.com/jiwoochris/artex-global.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "project-maya",
-  "url": "mw00/project-maya",
-  "license": "MIT",
-  "desc": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
-  "usage": "git clone https://github.com/mw00/project-maya.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "solid-glass",
-  "url": "deeplethe/solid-glass",
-  "license": "MIT",
-  "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-  "usage": "git clone https://github.com/deeplethe/solid-glass.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "codeAgent",
-  "url": "Harvil1/codeAgent",
-  "license": "MIT",
-  "desc": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a...",
-  "usage": "git clone https://github.com/Harvil1/codeAgent.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "whirl",
-  "url": "whirlchat/whirl",
-  "license": "MIT",
-  "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-  "usage": "git clone https://github.com/whirlchat/whirl.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "box",
-  "url": "strands-agents/box",
-  "license": "Apache-2.0",
-  "desc": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent....",
-  "usage": "git clone https://github.com/strands-agents/box.git\n# see the README for setup",
   "found": "2026-10-14"
  }
 ]

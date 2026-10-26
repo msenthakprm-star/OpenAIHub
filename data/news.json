@@ -1,10 +1,24 @@
 [
  {
+  "date": "2026-10-26",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+  "title": "Trending on Hugging Face: Nanbeige/Nanbeige4.3-33B",
+  "summary": "Task: text-generation. 524 likes, 2787 downloads."
+ },
+ {
   "date": "2026-10-25",
   "tag": "Trending",
   "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
   "title": "Trending on Hugging Face: MiniMaxAI/MiniMax-M3.1-Flash",
   "summary": "Task: image-text-to-text. 333 likes, 7355 downloads."
+ },
+ {
+  "date": "2026-10-25",
+  "tag": "New repo",
+  "url": "https://github.com/jadezane6634-ops/dsh-purge-flash",
+  "title": "New repo: jadezane6634-ops/dsh-purge-flash (151 stars)",
+  "summary": "DSH稳定高效的破甲插件： 常驻1,597token +零宿主补丁（可与dsh-purge共存）+ 三层技能路由+ 分级 prefill + 拒答自我强化阶梯+ finish_reason 四路分流 状态查询: /flash light"
  },
  {
   "date": "2026-10-24",
@@ -19,6 +33,13 @@
   "url": "https://github.com/rddmwmddr/android-ad-cleaner",
   "title": "New repo: rddmwmddr/android-ad-cleaner (374 stars)",
   "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+ },
+ {
+  "date": "2026-10-24",
+  "tag": "New repo",
+  "url": "https://github.com/xiaozhangup/Oh-My-McDonald",
+  "title": "New repo: xiaozhangup/Oh-My-McDonald (120 stars)",
+  "summary": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。"
  },
  {
   "date": "2026-10-23",
@@ -84,6 +105,13 @@
   "summary": ""
  },
  {
+  "date": "2026-10-22",
+  "tag": "New repo",
+  "url": "https://github.com/stockedge/manga-generator",
+  "title": "New repo: stockedge/manga-generator (114 stars)",
+  "summary": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール"
+ },
+ {
   "date": "2026-10-21",
   "tag": "Trending",
   "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
@@ -131,6 +159,13 @@
   "url": "https://github.com/helloianneo/ian-xhs-carousel",
   "title": "New repo: helloianneo/ian-xhs-carousel (209 stars)",
   "summary": "把文章、案例或笔记排成 3:4 小红书图文 | 1080×1440 | 20 个母版 | 浅色 / 深色 | Claude Code Skill"
+ },
+ {
+  "date": "2026-10-21",
+  "tag": "New repo",
+  "url": "https://github.com/h9-tec/ai-roadmap-2026",
+  "title": "New repo: h9-tec/ai-roadmap-2026 (167 stars)",
+  "summary": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer"
  },
  {
   "date": "2026-10-20",
