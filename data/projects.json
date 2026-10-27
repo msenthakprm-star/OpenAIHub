@@ -1,5 +1,37 @@
 [
  {
+  "name": "hob",
+  "url": "FrigadeHQ/hob",
+  "license": "MIT",
+  "desc": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and works offline.",
+  "usage": "git clone https://github.com/FrigadeHQ/hob.git\n# see the README for setup",
+  "found": "2026-10-27"
+ },
+ {
+  "name": "trompe",
+  "url": "patch-gg/trompe",
+  "license": "Apache-2.0",
+  "desc": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+  "usage": "git clone https://github.com/patch-gg/trompe.git\n# see the README for setup",
+  "found": "2026-10-27"
+ },
+ {
+  "name": "openfill",
+  "url": "beckettharriman/openfill",
+  "license": "Apache-2.0",
+  "desc": "Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI.",
+  "usage": "git clone https://github.com/beckettharriman/openfill.git\n# see the README for setup",
+  "found": "2026-10-27"
+ },
+ {
+  "name": "ai-wallet-binance",
+  "url": "jacke-pp/ai-wallet-binance",
+  "license": "MIT",
+  "desc": "让任何 AI 用你自己的币安 AI 钱包交易：秒买秒卖、狙击 Agent 专属发射台（Four、Flap、GANG）、AI 专属 Mint、本机交易页面。币安签名，不碰私钥。Let any AI trade with your own Binance AI wallet.",
+  "usage": "git clone https://github.com/jacke-pp/ai-wallet-binance.git\n# see the README for setup",
+  "found": "2026-10-27"
+ },
+ {
   "name": "scout",
   "url": "outcrawlai/scout",
   "license": "Apache-2.0",
@@ -286,37 +318,5 @@
   "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
   "usage": "git clone https://github.com/Fazmin/AILearningGuide.git\n# see the README for setup",
   "found": "2026-10-15"
- },
- {
-  "name": "aurelio-finance",
-  "url": "LosaLosSantos/aurelio-finance",
-  "license": "MIT",
-  "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-  "usage": "git clone https://github.com/LosaLosSantos/aurelio-finance.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "answer-me-with-html",
-  "url": "QingYunA/answer-me-with-html",
-  "license": "MIT",
-  "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-  "usage": "git clone https://github.com/QingYunA/answer-me-with-html.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "esp32-iphone-agent",
-  "url": "onehumanbeing/esp32-iphone-agent",
-  "license": "MIT",
-  "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-  "usage": "git clone https://github.com/onehumanbeing/esp32-iphone-agent.git\n# see the README for setup",
-  "found": "2026-10-14"
- },
- {
-  "name": "artex-global",
-  "url": "jiwoochris/artex-global",
-  "license": "AGPL-3.0",
-  "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
-  "usage": "git clone https://github.com/jiwoochris/artex-global.git\n# see the README for setup",
-  "found": "2026-10-14"
  }
 ]

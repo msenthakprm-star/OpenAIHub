@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-10-27",
+  "tag": "Trending",
+  "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+  "title": "Trending on Hugging Face: ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+  "summary": "Task: text-generation. 371 likes, 1105751 downloads."
+ },
+ {
+  "date": "2026-10-27",
+  "tag": "Trending",
+  "url": "https://huggingface.co/InternScience/Sage-A1.5",
+  "title": "Trending on Hugging Face: InternScience/Sage-A1.5",
+  "summary": "Task: text-generation. 323 likes, 6613 downloads."
+ },
+ {
   "date": "2026-10-26",
   "tag": "Trending",
   "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
@@ -19,6 +33,20 @@
   "url": "https://github.com/jadezane6634-ops/dsh-purge-flash",
   "title": "New repo: jadezane6634-ops/dsh-purge-flash (151 stars)",
   "summary": "DSH稳定高效的破甲插件： 常驻1,597token +零宿主补丁（可与dsh-purge共存）+ 三层技能路由+ 分级 prefill + 拒答自我强化阶梯+ finish_reason 四路分流 状态查询: /flash light"
+ },
+ {
+  "date": "2026-10-25",
+  "tag": "New repo",
+  "url": "https://github.com/patch-gg/trompe",
+  "title": "New repo: patch-gg/trompe (150 stars)",
+  "summary": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out."
+ },
+ {
+  "date": "2026-10-25",
+  "tag": "New repo",
+  "url": "https://github.com/jacke-pp/ai-wallet-binance",
+  "title": "New repo: jacke-pp/ai-wallet-binance (111 stars)",
+  "summary": "让任何 AI 用你自己的币安 AI 钱包交易：秒买秒卖、狙击 Agent 专属发射台（Four、Flap、GANG）、AI 专属 Mint、本机交易页面。币安签名，不碰私钥。Let any AI trade with your own Binance AI wallet."
  },
  {
   "date": "2026-10-24",
@@ -439,6 +467,20 @@
   "url": "https://github.com/Entelligence-AI/agentplay",
   "title": "New repo: Entelligence-AI/agentplay (301 stars)",
   "summary": "Replay your coding agent sessions as a map and a timeline"
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "New repo",
+  "url": "https://github.com/FrigadeHQ/hob",
+  "title": "New repo: FrigadeHQ/hob (205 stars)",
+  "summary": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and works offline."
+ },
+ {
+  "date": "2026-10-14",
+  "tag": "New repo",
+  "url": "https://github.com/beckettharriman/openfill",
+  "title": "New repo: beckettharriman/openfill (131 stars)",
+  "summary": "Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI."
  },
  {
   "date": "2026-10-13",
