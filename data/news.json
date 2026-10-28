@@ -14,11 +14,39 @@
   "summary": "Task: text-generation. 323 likes, 6613 downloads."
  },
  {
+  "date": "2026-10-27",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "title": "Build specialized multimodal models with LFM3",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-27",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-27",
+  "tag": "New repo",
+  "url": "https://github.com/patch-gg/anymove",
+  "title": "New repo: patch-gg/anymove (281 stars)",
+  "summary": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out."
+ },
+ {
   "date": "2026-10-26",
   "tag": "Trending",
   "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
   "title": "Trending on Hugging Face: Nanbeige/Nanbeige4.3-33B",
   "summary": "Task: text-generation. 524 likes, 2787 downloads."
+ },
+ {
+  "date": "2026-10-26",
+  "tag": "New repo",
+  "url": "https://github.com/JunWan666/astrbot-for-android",
+  "title": "New repo: JunWan666/astrbot-for-android (205 stars)",
+  "summary": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。"
  },
  {
   "date": "2026-10-25",
@@ -273,6 +301,13 @@
   "summary": "Task: image-to-image. 466 likes, 52315 downloads."
  },
  {
+  "date": "2026-10-18",
+  "tag": "New repo",
+  "url": "https://github.com/langchain-ai/design-agent",
+  "title": "New repo: langchain-ai/design-agent (186 stars)",
+  "summary": "Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents."
+ },
+ {
   "date": "2026-10-17",
   "tag": "Trending",
   "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
@@ -320,6 +355,13 @@
   "url": "https://huggingface.co/blog/reflection-beam",
   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
   "summary": ""
+ },
+ {
+  "date": "2026-10-16",
+  "tag": "New repo",
+  "url": "https://github.com/ztt0216/MyAgent",
+  "title": "New repo: ztt0216/MyAgent (172 stars)",
+  "summary": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化"
  },
  {
   "date": "2026-10-15",

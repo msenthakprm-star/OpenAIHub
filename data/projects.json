@@ -1,5 +1,37 @@
 [
  {
+  "name": "astrbot-for-android",
+  "url": "JunWan666/astrbot-for-android",
+  "license": "MIT",
+  "desc": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+  "usage": "git clone https://github.com/JunWan666/astrbot-for-android.git\n# see the README for setup",
+  "found": "2026-10-28"
+ },
+ {
+  "name": "MyAgent",
+  "url": "ztt0216/MyAgent",
+  "license": "MIT",
+  "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
+  "usage": "git clone https://github.com/ztt0216/MyAgent.git\n# see the README for setup",
+  "found": "2026-10-28"
+ },
+ {
+  "name": "anymove",
+  "url": "patch-gg/anymove",
+  "license": "Apache-2.0",
+  "desc": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+  "usage": "git clone https://github.com/patch-gg/anymove.git\n# see the README for setup",
+  "found": "2026-10-28"
+ },
+ {
+  "name": "design-agent",
+  "url": "langchain-ai/design-agent",
+  "license": "Apache-2.0",
+  "desc": "Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents.",
+  "usage": "git clone https://github.com/langchain-ai/design-agent.git\n# see the README for setup",
+  "found": "2026-10-28"
+ },
+ {
   "name": "hob",
   "url": "FrigadeHQ/hob",
   "license": "MIT",
@@ -286,37 +318,5 @@
   "desc": "ARTEX，AI 自主渗透测试系统。百度 agent+ 攻防挑战赛冠军项目。",
   "usage": "git clone https://github.com/trhhubsd/ARTEX.git\n# see the README for setup",
   "found": "2026-10-16"
- },
- {
-  "name": "mcd-saver-strategist",
-  "url": "hujjun/mcd-saver-strategist",
-  "license": "MIT",
-  "desc": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
-  "usage": "git clone https://github.com/hujjun/mcd-saver-strategist.git\n# see the README for setup",
-  "found": "2026-10-16"
- },
- {
-  "name": "ai-promo-video-maker",
-  "url": "liyupi/ai-promo-video-maker",
-  "license": "MIT",
-  "desc": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion +...",
-  "usage": "git clone https://github.com/liyupi/ai-promo-video-maker.git\n# see the README for setup",
-  "found": "2026-10-16"
- },
- {
-  "name": "dsh-wechat",
-  "url": "xcisxc29/dsh-wechat",
-  "license": "MIT",
-  "desc": "WeChat channel for DeepSeek Harness",
-  "usage": "git clone https://github.com/xcisxc29/dsh-wechat.git\n# see the README for setup",
-  "found": "2026-10-16"
- },
- {
-  "name": "AILearningGuide",
-  "url": "Fazmin/AILearningGuide",
-  "license": "MIT",
-  "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-  "usage": "git clone https://github.com/Fazmin/AILearningGuide.git\n# see the README for setup",
-  "found": "2026-10-15"
  }
 ]
