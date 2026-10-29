@@ -1,5 +1,33 @@
 [
  {
+  "date": "2026-10-29",
+  "tag": "Trending",
+  "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
+  "title": "Trending on Hugging Face: tencent/Hy-SimulMT-30B-A3B-FP8",
+  "summary": "Task: translation. 454 likes, 396 downloads."
+ },
+ {
+  "date": "2026-10-29",
+  "tag": "Trending",
+  "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+  "title": "Trending on Hugging Face: LiquidAI/LFM3-1.7B",
+  "summary": "Task: text-generation. 441 likes, 15885 downloads."
+ },
+ {
+  "date": "2026-10-29",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-28",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "summary": ""
+ },
+ {
   "date": "2026-10-27",
   "tag": "Trending",
   "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
