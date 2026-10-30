@@ -1,5 +1,26 @@
 [
  {
+  "date": "2026-10-30",
+  "tag": "Trending",
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+  "title": "Trending on Hugging Face: nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+  "summary": "Task: automatic-speech-recognition. 459 likes, 15980 downloads."
+ },
+ {
+  "date": "2026-10-30",
+  "tag": "Trending",
+  "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+  "title": "Trending on Hugging Face: baidu/Unlimited-OCR-2",
+  "summary": "Task: image-text-to-text. 431 likes, 24276 downloads."
+ },
+ {
+  "date": "2026-10-30",
+  "tag": "Trending",
+  "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+  "title": "Trending on Hugging Face: mistralai/Mistral-Large-4-1T-A52B",
+  "summary": "Task: image-text-to-text. 1291 likes, 1239 downloads."
+ },
+ {
   "date": "2026-10-29",
   "tag": "Trending",
   "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
@@ -21,11 +42,46 @@
   "summary": ""
  },
  {
+  "date": "2026-10-29",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-29",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/announcing-project-protostar",
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-29",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-29",
+  "tag": "New repo",
+  "url": "https://github.com/wangzan101/Mika",
+  "title": "New repo: wangzan101/Mika (367 stars)",
+  "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you."
+ },
+ {
   "date": "2026-10-28",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
   "summary": ""
+ },
+ {
+  "date": "2026-10-28",
+  "tag": "New repo",
+  "url": "https://github.com/jmanico/grim-prompter",
+  "title": "New repo: jmanico/grim-prompter (212 stars)",
+  "summary": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT."
  },
  {
   "date": "2026-10-27",
@@ -61,6 +117,13 @@
   "url": "https://github.com/patch-gg/anymove",
   "title": "New repo: patch-gg/anymove (281 stars)",
   "summary": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out."
+ },
+ {
+  "date": "2026-10-27",
+  "tag": "New repo",
+  "url": "https://github.com/jackwener/DeepseekHarness-Android",
+  "title": "New repo: jackwener/DeepseekHarness-Android (435 stars)",
+  "summary": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku"
  },
  {
   "date": "2026-10-26",
@@ -103,6 +166,13 @@
   "url": "https://github.com/jacke-pp/ai-wallet-binance",
   "title": "New repo: jacke-pp/ai-wallet-binance (111 stars)",
   "summary": "让任何 AI 用你自己的币安 AI 钱包交易：秒买秒卖、狙击 Agent 专属发射台（Four、Flap、GANG）、AI 专属 Mint、本机交易页面。币安签名，不碰私钥。Let any AI trade with your own Binance AI wallet."
+ },
+ {
+  "date": "2026-10-25",
+  "tag": "New repo",
+  "url": "https://github.com/ccch1mneyyy/dsh-Go",
+  "title": "New repo: ccch1mneyyy/dsh-Go (1766 stars)",
+  "summary": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
  },
  {
   "date": "2026-10-24",

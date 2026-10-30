@@ -1,5 +1,37 @@
 [
  {
+  "name": "dsh-Go",
+  "url": "ccch1mneyyy/dsh-Go",
+  "license": "AGPL-3.0",
+  "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+  "usage": "git clone https://github.com/ccch1mneyyy/dsh-Go.git\n# see the README for setup",
+  "found": "2026-10-30"
+ },
+ {
+  "name": "DeepseekHarness-Android",
+  "url": "jackwener/DeepseekHarness-Android",
+  "license": "Apache-2.0",
+  "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+  "usage": "git clone https://github.com/jackwener/DeepseekHarness-Android.git\n# see the README for setup",
+  "found": "2026-10-30"
+ },
+ {
+  "name": "Mika",
+  "url": "wangzan101/Mika",
+  "license": "Apache-2.0",
+  "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+  "usage": "git clone https://github.com/wangzan101/Mika.git\n# see the README for setup",
+  "found": "2026-10-30"
+ },
+ {
+  "name": "grim-prompter",
+  "url": "jmanico/grim-prompter",
+  "license": "MIT",
+  "desc": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+  "usage": "git clone https://github.com/jmanico/grim-prompter.git\n# see the README for setup",
+  "found": "2026-10-30"
+ },
+ {
   "name": "astrbot-for-android",
   "url": "JunWan666/astrbot-for-android",
   "license": "MIT",
@@ -285,38 +317,6 @@
   "license": "MIT",
   "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
   "usage": "git clone https://github.com/Ayzzz123/mcd-coupon-strategist.git\n# see the README for setup",
-  "found": "2026-10-16"
- },
- {
-  "name": "hermes-official-plugins",
-  "url": "NousResearch/hermes-official-plugins",
-  "license": "MIT",
-  "desc": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
-  "usage": "git clone https://github.com/NousResearch/hermes-official-plugins.git\n# see the README for setup",
-  "found": "2026-10-16"
- },
- {
-  "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
-  "url": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-  "license": "MIT",
-  "desc": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
-  "usage": "git clone https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit.git\n# see the README for setup",
-  "found": "2026-10-16"
- },
- {
-  "name": "blender-ai-addon",
-  "url": "hitkeeen/blender-ai-addon",
-  "license": "MIT",
-  "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-  "usage": "git clone https://github.com/hitkeeen/blender-ai-addon.git\n# see the README for setup",
-  "found": "2026-10-16"
- },
- {
-  "name": "ARTEX",
-  "url": "trhhubsd/ARTEX",
-  "license": "AGPL-3.0",
-  "desc": "ARTEX，AI 自主渗透测试系统。百度 agent+ 攻防挑战赛冠军项目。",
-  "usage": "git clone https://github.com/trhhubsd/ARTEX.git\n# see the README for setup",
   "found": "2026-10-16"
  }
 ]
