@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-31",
+  "tag": "Trending",
+  "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+  "title": "Trending on Hugging Face: ccore/Qwen3.5-4B-3D-Coder",
+  "summary": "Task: n/a. 364 likes, 29615 downloads."
+ },
+ {
   "date": "2026-10-30",
   "tag": "Trending",
   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
@@ -19,6 +26,27 @@
   "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
   "title": "Trending on Hugging Face: mistralai/Mistral-Large-4-1T-A52B",
   "summary": "Task: image-text-to-text. 1291 likes, 1239 downloads."
+ },
+ {
+  "date": "2026-10-30",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "title": "nemotron-halloween",
+  "summary": ""
+ },
+ {
+  "date": "2026-10-30",
+  "tag": "New repo",
+  "url": "https://github.com/N1nEmAn/sapper-v2",
+  "title": "New repo: N1nEmAn/sapper-v2 (286 stars)",
+  "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs..."
+ },
+ {
+  "date": "2026-10-30",
+  "tag": "New repo",
+  "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+  "title": "New repo: boardshogunfluctuate/Capri-AI (286 stars)",
+  "summary": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED."
  },
  {
   "date": "2026-10-29",
@@ -84,6 +112,13 @@
   "summary": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT."
  },
  {
+  "date": "2026-10-28",
+  "tag": "New repo",
+  "url": "https://github.com/Xpropel/Pi-Remote",
+  "title": "New repo: Xpropel/Pi-Remote (129 stars)",
+  "summary": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands from your phone — end-to-end encrypted over a self-hosted relay."
+ },
+ {
   "date": "2026-10-27",
   "tag": "Trending",
   "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
@@ -123,6 +158,13 @@
   "tag": "New repo",
   "url": "https://github.com/jackwener/DeepseekHarness-Android",
   "title": "New repo: jackwener/DeepseekHarness-Android (435 stars)",
+  "summary": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku"
+ },
+ {
+  "date": "2026-10-27",
+  "tag": "New repo",
+  "url": "https://github.com/jackwener/DSH-Android",
+  "title": "New repo: jackwener/DSH-Android (587 stars)",
   "summary": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku"
  },
  {

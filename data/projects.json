@@ -1,5 +1,37 @@
 [
  {
+  "name": "DSH-Android",
+  "url": "jackwener/DSH-Android",
+  "license": "Apache-2.0",
+  "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+  "usage": "git clone https://github.com/jackwener/DSH-Android.git\n# see the README for setup",
+  "found": "2026-10-31"
+ },
+ {
+  "name": "sapper-v2",
+  "url": "N1nEmAn/sapper-v2",
+  "license": "MIT",
+  "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs...",
+  "usage": "git clone https://github.com/N1nEmAn/sapper-v2.git\n# see the README for setup",
+  "found": "2026-10-31"
+ },
+ {
+  "name": "Capri-AI",
+  "url": "boardshogunfluctuate/Capri-AI",
+  "license": "MIT",
+  "desc": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+  "usage": "git clone https://github.com/boardshogunfluctuate/Capri-AI.git\n# see the README for setup",
+  "found": "2026-10-31"
+ },
+ {
+  "name": "Pi-Remote",
+  "url": "Xpropel/Pi-Remote",
+  "license": "MIT",
+  "desc": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands from your phone — end-to-end encrypted over a self-hosted relay.",
+  "usage": "git clone https://github.com/Xpropel/Pi-Remote.git\n# see the README for setup",
+  "found": "2026-10-31"
+ },
+ {
   "name": "dsh-Go",
   "url": "ccch1mneyyy/dsh-Go",
   "license": "AGPL-3.0",
@@ -286,37 +318,5 @@
   "desc": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
   "usage": "git clone https://github.com/sitor-ai/frametell.git\n# see the README for setup",
   "found": "2026-10-18"
- },
- {
-  "name": "blender-ai-mcp-addon",
-  "url": "anujasid/blender-ai-mcp-addon",
-  "license": "MIT",
-  "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-  "usage": "git clone https://github.com/anujasid/blender-ai-mcp-addon.git\n# see the README for setup",
-  "found": "2026-10-17"
- },
- {
-  "name": "textfold",
-  "url": "chenxiachan/textfold",
-  "license": "Apache-2.0",
-  "desc": "Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.",
-  "usage": "git clone https://github.com/chenxiachan/textfold.git\n# see the README for setup",
-  "found": "2026-10-17"
- },
- {
-  "name": "artex-ko-plus",
-  "url": "bdg9412/artex-ko-plus",
-  "license": "AGPL-3.0",
-  "desc": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-  "usage": "git clone https://github.com/bdg9412/artex-ko-plus.git\n# see the README for setup",
-  "found": "2026-10-17"
- },
- {
-  "name": "mcd-coupon-strategist",
-  "url": "Ayzzz123/mcd-coupon-strategist",
-  "license": "MIT",
-  "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-  "usage": "git clone https://github.com/Ayzzz123/mcd-coupon-strategist.git\n# see the README for setup",
-  "found": "2026-10-16"
  }
 ]
