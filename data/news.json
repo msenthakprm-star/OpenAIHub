@@ -1,5 +1,33 @@
 [
  {
+  "date": "2026-11-02",
+  "tag": "Trending",
+  "url": "https://huggingface.co/speridlabs/idol",
+  "title": "Trending on Hugging Face: speridlabs/idol",
+  "summary": "Task: image-to-3d. 380 likes, 7787 downloads."
+ },
+ {
+  "date": "2026-11-02",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+  "title": "Trending on Hugging Face: Pika-Labs/Pika-H3-Flex",
+  "summary": "Task: image-to-video. 343 likes, 491 downloads."
+ },
+ {
+  "date": "2026-11-01",
+  "tag": "New repo",
+  "url": "https://github.com/Balanov/uncut",
+  "title": "New repo: Balanov/uncut (565 stars)",
+  "summary": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts."
+ },
+ {
+  "date": "2026-11-01",
+  "tag": "New repo",
+  "url": "https://github.com/SAOS-3624/dsh-see-now",
+  "title": "New repo: SAOS-3624/dsh-see-now (146 stars)",
+  "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token"
+ },
+ {
   "date": "2026-10-31",
   "tag": "Trending",
   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
@@ -47,6 +75,13 @@
   "url": "https://github.com/boardshogunfluctuate/Capri-AI",
   "title": "New repo: boardshogunfluctuate/Capri-AI (286 stars)",
   "summary": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED."
+ },
+ {
+  "date": "2026-10-30",
+  "tag": "New repo",
+  "url": "https://github.com/aa1143/NamiAgent",
+  "title": "New repo: aa1143/NamiAgent (186 stars)",
+  "summary": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent"
  },
  {
   "date": "2026-10-29",
@@ -166,6 +201,13 @@
   "url": "https://github.com/jackwener/DSH-Android",
   "title": "New repo: jackwener/DSH-Android (587 stars)",
   "summary": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku"
+ },
+ {
+  "date": "2026-10-27",
+  "tag": "New repo",
+  "url": "https://github.com/modelflare-ai/AnyModelBot",
+  "title": "New repo: modelflare-ai/AnyModelBot (1291 stars)",
+  "summary": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app,..."
  },
  {
   "date": "2026-10-26",
@@ -306,6 +348,13 @@
   "url": "https://github.com/stockedge/manga-generator",
   "title": "New repo: stockedge/manga-generator (114 stars)",
   "summary": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール"
+ },
+ {
+  "date": "2026-10-22",
+  "tag": "New repo",
+  "url": "https://github.com/wici-ai/inferssd",
+  "title": "New repo: wici-ai/inferssd (245 stars)",
+  "summary": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp."
  },
  {
   "date": "2026-10-21",
