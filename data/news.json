@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-11-04",
+  "tag": "Trending",
+  "url": "https://huggingface.co/burner22/numbat",
+  "title": "Trending on Hugging Face: burner22/numbat",
+  "summary": "Task: n/a. 336 likes, 8118 downloads."
+ },
+ {
+  "date": "2026-11-04",
+  "tag": "Trending",
+  "url": "https://huggingface.co/FusionCow/Sulphur-3",
+  "title": "Trending on Hugging Face: FusionCow/Sulphur-3",
+  "summary": "Task: n/a. 347 likes, 528 downloads."
+ },
+ {
   "date": "2026-11-03",
   "tag": "Trending",
   "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
@@ -11,6 +25,27 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/transformers-mic",
   "title": "Transformers Model Integration Contracts",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-03",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-03",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-03",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
   "summary": ""
  },
  {
