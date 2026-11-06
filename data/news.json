@@ -1,5 +1,33 @@
 [
  {
+  "date": "2026-11-06",
+  "tag": "Trending",
+  "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+  "title": "Trending on Hugging Face: ricursiveAI/Ripple-65B-Preview",
+  "summary": "Task: n/a. 305 likes, 2013 downloads."
+ },
+ {
+  "date": "2026-11-06",
+  "tag": "Trending",
+  "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+  "title": "Trending on Hugging Face: AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+  "summary": "Task: text-generation. 334 likes, 108162 downloads."
+ },
+ {
+  "date": "2026-11-06",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-06",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "summary": ""
+ },
+ {
   "date": "2026-11-05",
   "tag": "Trending",
   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
@@ -11,6 +39,13 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/phonon-tts",
   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-05",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
   "summary": ""
  },
  {
@@ -70,6 +105,13 @@
   "summary": ""
  },
  {
+  "date": "2026-11-03",
+  "tag": "New repo",
+  "url": "https://github.com/Sandflow-ai/sand3d",
+  "title": "New repo: Sandflow-ai/sand3d (631 stars)",
+  "summary": "3D modeling in Python, built for LLMs."
+ },
+ {
   "date": "2026-11-02",
   "tag": "Trending",
   "url": "https://huggingface.co/speridlabs/idol",
@@ -82,6 +124,13 @@
   "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
   "title": "Trending on Hugging Face: Pika-Labs/Pika-H3-Flex",
   "summary": "Task: image-to-video. 343 likes, 491 downloads."
+ },
+ {
+  "date": "2026-11-02",
+  "tag": "New repo",
+  "url": "https://github.com/didilili/mianstack",
+  "title": "New repo: didilili/mianstack (118 stars)",
+  "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。"
  },
  {
   "date": "2026-11-01",
@@ -292,6 +341,13 @@
   "url": "https://github.com/JunWan666/astrbot-for-android",
   "title": "New repo: JunWan666/astrbot-for-android (205 stars)",
   "summary": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。"
+ },
+ {
+  "date": "2026-10-26",
+  "tag": "New repo",
+  "url": "https://github.com/PapilotAI/papilot",
+  "title": "New repo: PapilotAI/papilot (145 stars)",
+  "summary": "Next-Generation AI LaTeX Editor: Don't read or write LaTeX. Just work on the PDF."
  },
  {
   "date": "2026-10-25",

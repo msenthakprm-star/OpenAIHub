@@ -1,5 +1,29 @@
 [
  {
+  "name": "sand3d",
+  "url": "Sandflow-ai/sand3d",
+  "license": "Apache-2.0",
+  "desc": "3D modeling in Python, built for LLMs.",
+  "usage": "git clone https://github.com/Sandflow-ai/sand3d.git\n# see the README for setup",
+  "found": "2026-11-06"
+ },
+ {
+  "name": "mianstack",
+  "url": "didilili/mianstack",
+  "license": "MIT",
+  "desc": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
+  "usage": "git clone https://github.com/didilili/mianstack.git\n# see the README for setup",
+  "found": "2026-11-06"
+ },
+ {
+  "name": "papilot",
+  "url": "PapilotAI/papilot",
+  "license": "MIT",
+  "desc": "Next-Generation AI LaTeX Editor: Don't read or write LaTeX. Just work on the PDF.",
+  "usage": "git clone https://github.com/PapilotAI/papilot.git\n# see the README for setup",
+  "found": "2026-11-06"
+ },
+ {
   "name": "ian-xhs-carousel",
   "url": "helloianneo/ian-xhs-carousel",
   "license": "MIT",
@@ -294,29 +318,5 @@
   "desc": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
   "usage": "git clone https://github.com/christos-antono/NPCTalk.git\n# see the README for setup",
   "found": "2026-10-24"
- },
- {
-  "name": "qz-browser-agent",
-  "url": "alibaba/qz-browser-agent",
-  "license": "Apache-2.0",
-  "desc": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.",
-  "usage": "git clone https://github.com/alibaba/qz-browser-agent.git\n# see the README for setup",
-  "found": "2026-10-23"
- },
- {
-  "name": "mcd-buddy",
-  "url": "janetom645-coder/mcd-buddy",
-  "license": "MIT",
-  "desc": "麦门四重奏 McQuartet · 一个 Skill 装四个玩法：修行录 / 团餐指挥官 / 隐藏菜单实验室 / 每日运势签。基于麦当劳中国官方 MCP，187 个测试全绿，离线演示可一键复现。",
-  "usage": "git clone https://github.com/janetom645-coder/mcd-buddy.git\n# see the README for setup",
-  "found": "2026-10-23"
- },
- {
-  "name": "REA-Reconstruction-Companion",
-  "url": "ShadowSwaps/REA-Reconstruction-Companion",
-  "license": "MIT",
-  "desc": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, portable installer, and validation workflows.",
-  "usage": "git clone https://github.com/ShadowSwaps/REA-Reconstruction-Companion.git\n# see the README for setup",
-  "found": "2026-10-23"
  }
 ]
