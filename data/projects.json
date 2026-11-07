@@ -1,5 +1,13 @@
 [
  {
+  "name": "antiglaude",
+  "url": "sksarvesh007/antiglaude",
+  "license": "MIT",
+  "desc": "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API",
+  "usage": "git clone https://github.com/sksarvesh007/antiglaude.git\n# see the README for setup",
+  "found": "2026-11-07"
+ },
+ {
   "name": "sand3d",
   "url": "Sandflow-ai/sand3d",
   "license": "Apache-2.0",
@@ -309,14 +317,6 @@
   "license": "MIT",
   "desc": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk.",
   "usage": "git clone https://github.com/raullenchai/esp32-thinks.git\n# see the README for setup",
-  "found": "2026-10-24"
- },
- {
-  "name": "NPCTalk",
-  "url": "christos-antono/NPCTalk",
-  "license": "MIT",
-  "desc": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
-  "usage": "git clone https://github.com/christos-antono/NPCTalk.git\n# see the README for setup",
   "found": "2026-10-24"
  }
 ]

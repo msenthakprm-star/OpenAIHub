@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-07",
+  "tag": "Trending",
+  "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+  "title": "Trending on Hugging Face: DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+  "summary": "Task: image-text-to-text. 2625 likes, 1545313 downloads."
+ },
+ {
   "date": "2026-11-06",
   "tag": "Trending",
   "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
@@ -110,6 +117,13 @@
   "url": "https://github.com/Sandflow-ai/sand3d",
   "title": "New repo: Sandflow-ai/sand3d (631 stars)",
   "summary": "3D modeling in Python, built for LLMs."
+ },
+ {
+  "date": "2026-11-03",
+  "tag": "New repo",
+  "url": "https://github.com/sksarvesh007/antiglaude",
+  "title": "New repo: sksarvesh007/antiglaude (128 stars)",
+  "summary": "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API"
  },
  {
   "date": "2026-11-02",
