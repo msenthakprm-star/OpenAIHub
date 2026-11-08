@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-08",
+  "tag": "Trending",
+  "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+  "title": "Trending on Hugging Face: xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+  "summary": "Task: text-generation. 711 likes, 7088 downloads."
+ },
+ {
   "date": "2026-11-07",
   "tag": "Trending",
   "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
@@ -54,6 +61,13 @@
   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
   "summary": ""
+ },
+ {
+  "date": "2026-11-05",
+  "tag": "New repo",
+  "url": "https://github.com/imsai-sh/fish-pocket",
+  "title": "New repo: imsai-sh/fish-pocket (143 stars)",
+  "summary": "Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。"
  },
  {
   "date": "2026-11-04",
@@ -166,6 +180,13 @@
   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
   "title": "Trending on Hugging Face: ccore/Qwen3.5-4B-3D-Coder",
   "summary": "Task: n/a. 364 likes, 29615 downloads."
+ },
+ {
+  "date": "2026-10-31",
+  "tag": "New repo",
+  "url": "https://github.com/Interactive-Active-AI/NextTransformer",
+  "title": "New repo: Interactive-Active-AI/NextTransformer (392 stars)",
+  "summary": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research."
  },
  {
   "date": "2026-10-30",

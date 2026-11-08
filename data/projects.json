@@ -1,5 +1,21 @@
 [
  {
+  "name": "NextTransformer",
+  "url": "Interactive-Active-AI/NextTransformer",
+  "license": "MIT",
+  "desc": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
+  "usage": "git clone https://github.com/Interactive-Active-AI/NextTransformer.git\n# see the README for setup",
+  "found": "2026-11-08"
+ },
+ {
+  "name": "fish-pocket",
+  "url": "imsai-sh/fish-pocket",
+  "license": "MIT",
+  "desc": "Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。",
+  "usage": "git clone https://github.com/imsai-sh/fish-pocket.git\n# see the README for setup",
+  "found": "2026-11-08"
+ },
+ {
   "name": "antiglaude",
   "url": "sksarvesh007/antiglaude",
   "license": "MIT",
@@ -301,22 +317,6 @@
   "license": "MIT",
   "desc": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
   "usage": "git clone https://github.com/SouravBeraAkaSpeed/xiryn.git\n# see the README for setup",
-  "found": "2026-10-24"
- },
- {
-  "name": "agentplay",
-  "url": "Entelligence-AI/agentplay",
-  "license": "Apache-2.0",
-  "desc": "Replay your coding agent sessions as a map and a timeline",
-  "usage": "git clone https://github.com/Entelligence-AI/agentplay.git\n# see the README for setup",
-  "found": "2026-10-24"
- },
- {
-  "name": "esp32-thinks",
-  "url": "raullenchai/esp32-thinks",
-  "license": "MIT",
-  "desc": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk.",
-  "usage": "git clone https://github.com/raullenchai/esp32-thinks.git\n# see the README for setup",
   "found": "2026-10-24"
  }
 ]
