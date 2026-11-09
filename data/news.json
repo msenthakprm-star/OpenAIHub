@@ -1,5 +1,26 @@
 [
  {
+  "date": "2026-11-09",
+  "tag": "Trending",
+  "url": "https://huggingface.co/NousResearch/Arete-27B",
+  "title": "Trending on Hugging Face: NousResearch/Arete-27B",
+  "summary": "Task: text-generation. 337 likes, 2407 downloads."
+ },
+ {
+  "date": "2026-11-09",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-09",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "summary": ""
+ },
+ {
   "date": "2026-11-08",
   "tag": "Trending",
   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
@@ -70,6 +91,13 @@
   "summary": "Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。"
  },
  {
+  "date": "2026-11-05",
+  "tag": "New repo",
+  "url": "https://github.com/ZSeven-W/dsh-game-studio",
+  "title": "New repo: ZSeven-W/dsh-game-studio (443 stars)",
+  "summary": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click."
+ },
+ {
   "date": "2026-11-04",
   "tag": "Trending",
   "url": "https://huggingface.co/burner22/numbat",
@@ -89,6 +117,13 @@
   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
   "summary": ""
+ },
+ {
+  "date": "2026-11-04",
+  "tag": "New repo",
+  "url": "https://github.com/silverdugongenhance/PromptReel",
+  "title": "New repo: silverdugongenhance/PromptReel (206 stars)",
+  "summary": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11."
  },
  {
   "date": "2026-11-03",

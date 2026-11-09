@@ -1,5 +1,21 @@
 [
  {
+  "name": "PromptReel",
+  "url": "silverdugongenhance/PromptReel",
+  "license": "MIT",
+  "desc": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
+  "usage": "git clone https://github.com/silverdugongenhance/PromptReel.git\n# see the README for setup",
+  "found": "2026-11-09"
+ },
+ {
+  "name": "dsh-game-studio",
+  "url": "ZSeven-W/dsh-game-studio",
+  "license": "MIT",
+  "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+  "usage": "git clone https://github.com/ZSeven-W/dsh-game-studio.git\n# see the README for setup",
+  "found": "2026-11-09"
+ },
+ {
   "name": "NextTransformer",
   "url": "Interactive-Active-AI/NextTransformer",
   "license": "MIT",
@@ -302,21 +318,5 @@
   "desc": "把菜单价换成官方当次核价：一句话说清预算和口味，给你一个答案 + 可复制的点单卡，并算清比另一种点法省多少钱（示例：单品直选 ¥48.50 vs 三件套 ¥36.50，省 ¥12.00/24.7%）。只读 MCP、零依赖 Python、免 Token 网页体验。",
   "usage": "git clone https://github.com/polaris-smart/mcd-agent-gourmet.git\n# see the README for setup",
   "found": "2026-10-25"
- },
- {
-  "name": "mcd-coupon-xray",
-  "url": "wahaha-potato/mcd-coupon-xray",
-  "license": "MIT",
-  "desc": "麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。",
-  "usage": "git clone https://github.com/wahaha-potato/mcd-coupon-xray.git\n# see the README for setup",
-  "found": "2026-10-25"
- },
- {
-  "name": "xiryn",
-  "url": "SouravBeraAkaSpeed/xiryn",
-  "license": "MIT",
-  "desc": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
-  "usage": "git clone https://github.com/SouravBeraAkaSpeed/xiryn.git\n# see the README for setup",
-  "found": "2026-10-24"
  }
 ]
