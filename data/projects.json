@@ -1,5 +1,21 @@
 [
  {
+  "name": "trnrt",
+  "url": "RunanywhereAI/trnrt",
+  "license": "Apache-2.0",
+  "desc": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+  "usage": "git clone https://github.com/RunanywhereAI/trnrt.git\n# see the README for setup",
+  "found": "2026-11-10"
+ },
+ {
+  "name": "cheap-ag",
+  "url": "muaaz9329/cheap-ag",
+  "license": "MIT",
+  "desc": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
+  "usage": "git clone https://github.com/muaaz9329/cheap-ag.git\n# see the README for setup",
+  "found": "2026-11-10"
+ },
+ {
   "name": "PromptReel",
   "url": "silverdugongenhance/PromptReel",
   "license": "MIT",
@@ -301,22 +317,6 @@
   "license": "MIT",
   "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
   "usage": "git clone https://github.com/rddmwmddr/android-ad-cleaner.git\n# see the README for setup",
-  "found": "2026-10-25"
- },
- {
-  "name": "bili-cli",
-  "url": "kukemc/bili-cli",
-  "license": "MIT",
-  "desc": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
-  "usage": "git clone https://github.com/kukemc/bili-cli.git\n# see the README for setup",
-  "found": "2026-10-25"
- },
- {
-  "name": "mcd-agent-gourmet",
-  "url": "polaris-smart/mcd-agent-gourmet",
-  "license": "MIT",
-  "desc": "把菜单价换成官方当次核价：一句话说清预算和口味，给你一个答案 + 可复制的点单卡，并算清比另一种点法省多少钱（示例：单品直选 ¥48.50 vs 三件套 ¥36.50，省 ¥12.00/24.7%）。只读 MCP、零依赖 Python、免 Token 网页体验。",
-  "usage": "git clone https://github.com/polaris-smart/mcd-agent-gourmet.git\n# see the README for setup",
   "found": "2026-10-25"
  }
 ]

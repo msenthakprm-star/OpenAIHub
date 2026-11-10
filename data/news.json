@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-10",
+  "tag": "Trending",
+  "url": "https://huggingface.co/webAI-Official/TwIL-8B",
+  "title": "Trending on Hugging Face: webAI-Official/TwIL-8B",
+  "summary": "Task: text-generation. 272 likes, 43175 downloads."
+ },
+ {
   "date": "2026-11-09",
   "tag": "Trending",
   "url": "https://huggingface.co/NousResearch/Arete-27B",
@@ -273,6 +280,13 @@
   "summary": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent"
  },
  {
+  "date": "2026-10-30",
+  "tag": "New repo",
+  "url": "https://github.com/RunanywhereAI/trnrt",
+  "title": "New repo: RunanywhereAI/trnrt (799 stars)",
+  "summary": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere."
+ },
+ {
   "date": "2026-10-29",
   "tag": "Trending",
   "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
@@ -341,6 +355,13 @@
   "url": "https://github.com/Xpropel/Pi-Remote",
   "title": "New repo: Xpropel/Pi-Remote (129 stars)",
   "summary": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands from your phone — end-to-end encrypted over a self-hosted relay."
+ },
+ {
+  "date": "2026-10-28",
+  "tag": "New repo",
+  "url": "https://github.com/muaaz9329/cheap-ag",
+  "title": "New repo: muaaz9329/cheap-ag (324 stars)",
+  "summary": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex."
  },
  {
   "date": "2026-10-27",
