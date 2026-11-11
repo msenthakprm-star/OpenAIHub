@@ -1,5 +1,29 @@
 [
  {
+  "name": "ste80-humanizer",
+  "url": "Dodaios/ste80-humanizer",
+  "license": "MIT",
+  "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+  "usage": "git clone https://github.com/Dodaios/ste80-humanizer.git\n# see the README for setup",
+  "found": "2026-11-11"
+ },
+ {
+  "name": "turkish-anti-ai-skill",
+  "url": "yucezerey/turkish-anti-ai-skill",
+  "license": "MIT",
+  "desc": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+  "usage": "git clone https://github.com/yucezerey/turkish-anti-ai-skill.git\n# see the README for setup",
+  "found": "2026-11-11"
+ },
+ {
+  "name": "SoduWork",
+  "url": "mdiri-ai/SoduWork",
+  "license": "MIT",
+  "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+  "usage": "git clone https://github.com/mdiri-ai/SoduWork.git\n# see the README for setup",
+  "found": "2026-11-11"
+ },
+ {
   "name": "trnrt",
   "url": "RunanywhereAI/trnrt",
   "license": "Apache-2.0",
@@ -294,29 +318,5 @@
   "desc": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
   "usage": "git clone https://github.com/xiaozhangup/Oh-My-McDonald.git\n# see the README for setup",
   "found": "2026-10-26"
- },
- {
-  "name": "antirion",
-  "url": "eliasbiondo/antirion",
-  "license": "Apache-2.0",
-  "desc": "⚡ The fastest open-source AI gateway — one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
-  "usage": "git clone https://github.com/eliasbiondo/antirion.git\n# see the README for setup",
-  "found": "2026-10-25"
- },
- {
-  "name": "Lampline",
-  "url": "C4rohan/Lampline",
-  "license": "Apache-2.0",
-  "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
-  "usage": "git clone https://github.com/C4rohan/Lampline.git\n# see the README for setup",
-  "found": "2026-10-25"
- },
- {
-  "name": "android-ad-cleaner",
-  "url": "rddmwmddr/android-ad-cleaner",
-  "license": "MIT",
-  "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-  "usage": "git clone https://github.com/rddmwmddr/android-ad-cleaner.git\n# see the README for setup",
-  "found": "2026-10-25"
  }
 ]

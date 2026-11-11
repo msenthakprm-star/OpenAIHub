@@ -1,10 +1,38 @@
 [
  {
+  "date": "2026-11-11",
+  "tag": "Trending",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+  "title": "Trending on Hugging Face: MiniMaxAI/MiniMax-H3-Image",
+  "summary": "Task: text-to-image. 617 likes, 142989 downloads."
+ },
+ {
+  "date": "2026-11-11",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/qvac/botpsy",
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "summary": ""
+ },
+ {
   "date": "2026-11-10",
   "tag": "Trending",
   "url": "https://huggingface.co/webAI-Official/TwIL-8B",
   "title": "Trending on Hugging Face: webAI-Official/TwIL-8B",
   "summary": "Task: text-generation. 272 likes, 43175 downloads."
+ },
+ {
+  "date": "2026-11-10",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-10",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/decision",
+  "title": "Decision Models in Hugging Face",
+  "summary": ""
  },
  {
   "date": "2026-11-09",
@@ -26,6 +54,13 @@
   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
   "summary": ""
+ },
+ {
+  "date": "2026-11-09",
+  "tag": "New repo",
+  "url": "https://github.com/Dodaios/ste80-humanizer",
+  "title": "New repo: Dodaios/ste80-humanizer (362 stars)",
+  "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared."
  },
  {
   "date": "2026-11-08",
@@ -103,6 +138,13 @@
   "url": "https://github.com/ZSeven-W/dsh-game-studio",
   "title": "New repo: ZSeven-W/dsh-game-studio (443 stars)",
   "summary": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click."
+ },
+ {
+  "date": "2026-11-05",
+  "tag": "New repo",
+  "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
+  "title": "New repo: yucezerey/turkish-anti-ai-skill (304 stars)",
+  "summary": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi."
  },
  {
   "date": "2026-11-04",
@@ -334,6 +376,13 @@
   "url": "https://github.com/wangzan101/Mika",
   "title": "New repo: wangzan101/Mika (367 stars)",
   "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you."
+ },
+ {
+  "date": "2026-10-29",
+  "tag": "New repo",
+  "url": "https://github.com/mdiri-ai/SoduWork",
+  "title": "New repo: mdiri-ai/SoduWork (292 stars)",
+  "summary": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted."
  },
  {
   "date": "2026-10-28",
