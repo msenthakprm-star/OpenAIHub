@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-12",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "summary": ""
+ },
+ {
   "date": "2026-11-11",
   "tag": "Trending",
   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
@@ -11,6 +18,13 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/qvac/botpsy",
   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-11",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/token-pooling",
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
   "summary": ""
  },
  {
@@ -61,6 +75,13 @@
   "url": "https://github.com/Dodaios/ste80-humanizer",
   "title": "New repo: Dodaios/ste80-humanizer (362 stars)",
   "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared."
+ },
+ {
+  "date": "2026-11-09",
+  "tag": "New repo",
+  "url": "https://github.com/agentes-chat/agentes-chat",
+  "title": "New repo: agentes-chat/agentes-chat (907 stars)",
+  "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory..."
  },
  {
   "date": "2026-11-08",
@@ -259,6 +280,20 @@
   "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token"
  },
  {
+  "date": "2026-11-01",
+  "tag": "New repo",
+  "url": "https://github.com/zaxiu88888/issue-rag",
+  "title": "New repo: zaxiu88888/issue-rag (320 stars)",
+  "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number."
+ },
+ {
+  "date": "2026-11-01",
+  "tag": "New repo",
+  "url": "https://github.com/NJohansen/handle-mcp",
+  "title": "New repo: NJohansen/handle-mcp (132 stars)",
+  "summary": "MCP server for nemlig.com, BilkaToGo, Rema1000: search products, add to cart and price comparisons. You always accept and pay yourself."
+ },
+ {
   "date": "2026-10-31",
   "tag": "Trending",
   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
@@ -327,6 +362,13 @@
   "url": "https://github.com/RunanywhereAI/trnrt",
   "title": "New repo: RunanywhereAI/trnrt (799 stars)",
   "summary": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere."
+ },
+ {
+  "date": "2026-10-30",
+  "tag": "New repo",
+  "url": "https://github.com/Juneo-Lab/decision-forge",
+  "title": "New repo: Juneo-Lab/decision-forge (308 stars)",
+  "summary": "Compile organizational policy into verifiable decision training data."
  },
  {
   "date": "2026-10-29",

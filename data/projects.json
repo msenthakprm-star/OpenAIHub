@@ -1,5 +1,37 @@
 [
  {
+  "name": "agentes-chat",
+  "url": "agentes-chat/agentes-chat",
+  "license": "AGPL-3.0",
+  "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory...",
+  "usage": "git clone https://github.com/agentes-chat/agentes-chat.git\n# see the README for setup",
+  "found": "2026-11-12"
+ },
+ {
+  "name": "issue-rag",
+  "url": "zaxiu88888/issue-rag",
+  "license": "MIT",
+  "desc": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
+  "usage": "git clone https://github.com/zaxiu88888/issue-rag.git\n# see the README for setup",
+  "found": "2026-11-12"
+ },
+ {
+  "name": "decision-forge",
+  "url": "Juneo-Lab/decision-forge",
+  "license": "Apache-2.0",
+  "desc": "Compile organizational policy into verifiable decision training data.",
+  "usage": "git clone https://github.com/Juneo-Lab/decision-forge.git\n# see the README for setup",
+  "found": "2026-11-12"
+ },
+ {
+  "name": "handle-mcp",
+  "url": "NJohansen/handle-mcp",
+  "license": "MIT",
+  "desc": "MCP server for nemlig.com, BilkaToGo, Rema1000: search products, add to cart and price comparisons. You always accept and pay yourself.",
+  "usage": "git clone https://github.com/NJohansen/handle-mcp.git\n# see the README for setup",
+  "found": "2026-11-12"
+ },
+ {
   "name": "ste80-humanizer",
   "url": "Dodaios/ste80-humanizer",
   "license": "MIT",
@@ -285,38 +317,6 @@
   "license": "Apache-2.0",
   "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
   "usage": "git clone https://github.com/outcrawlai/scout.git\n# see the README for setup",
-  "found": "2026-10-26"
- },
- {
-  "name": "ai-roadmap-2026",
-  "url": "h9-tec/ai-roadmap-2026",
-  "license": "CC-BY-4.0",
-  "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-  "usage": "git clone https://github.com/h9-tec/ai-roadmap-2026.git\n# see the README for setup",
-  "found": "2026-10-26"
- },
- {
-  "name": "manga-generator",
-  "url": "stockedge/manga-generator",
-  "license": "MIT",
-  "desc": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール",
-  "usage": "git clone https://github.com/stockedge/manga-generator.git\n# see the README for setup",
-  "found": "2026-10-26"
- },
- {
-  "name": "dsh-purge-flash",
-  "url": "jadezane6634-ops/dsh-purge-flash",
-  "license": "MIT",
-  "desc": "DSH稳定高效的破甲插件： 常驻1,597token +零宿主补丁（可与dsh-purge共存）+ 三层技能路由+ 分级 prefill + 拒答自我强化阶梯+ finish_reason 四路分流 状态查询: /flash light",
-  "usage": "git clone https://github.com/jadezane6634-ops/dsh-purge-flash.git\n# see the README for setup",
-  "found": "2026-10-26"
- },
- {
-  "name": "Oh-My-McDonald",
-  "url": "xiaozhangup/Oh-My-McDonald",
-  "license": "MIT",
-  "desc": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
-  "usage": "git clone https://github.com/xiaozhangup/Oh-My-McDonald.git\n# see the README for setup",
   "found": "2026-10-26"
  }
 ]
