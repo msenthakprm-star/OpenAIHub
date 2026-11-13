@@ -1,5 +1,37 @@
 [
  {
+  "name": "smolmaxxing",
+  "url": "hyperionaidev/smolmaxxing",
+  "license": "MIT",
+  "desc": "maxxing the ability to run different LLMs on the smallest devices possible",
+  "usage": "git clone https://github.com/hyperionaidev/smolmaxxing.git\n# see the README for setup",
+  "found": "2026-11-13"
+ },
+ {
+  "name": "WebsiteBench",
+  "url": "TIGER-AI-Lab/WebsiteBench",
+  "license": "Apache-2.0",
+  "desc": "Can AI agents rebuild websites through browser exploration?",
+  "usage": "git clone https://github.com/TIGER-AI-Lab/WebsiteBench.git\n# see the README for setup",
+  "found": "2026-11-13"
+ },
+ {
+  "name": "pinky",
+  "url": "DIYgod/pinky",
+  "license": "Apache-2.0",
+  "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+  "usage": "git clone https://github.com/DIYgod/pinky.git\n# see the README for setup",
+  "found": "2026-11-13"
+ },
+ {
+  "name": "Three",
+  "url": "shany9200/Three",
+  "license": "MIT",
+  "desc": "A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions.",
+  "usage": "git clone https://github.com/shany9200/Three.git\n# see the README for setup",
+  "found": "2026-11-13"
+ },
+ {
   "name": "agentes-chat",
   "url": "agentes-chat/agentes-chat",
   "license": "AGPL-3.0",
@@ -286,37 +318,5 @@
   "desc": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and works offline.",
   "usage": "git clone https://github.com/FrigadeHQ/hob.git\n# see the README for setup",
   "found": "2026-10-27"
- },
- {
-  "name": "trompe",
-  "url": "patch-gg/trompe",
-  "license": "Apache-2.0",
-  "desc": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-  "usage": "git clone https://github.com/patch-gg/trompe.git\n# see the README for setup",
-  "found": "2026-10-27"
- },
- {
-  "name": "openfill",
-  "url": "beckettharriman/openfill",
-  "license": "Apache-2.0",
-  "desc": "Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI.",
-  "usage": "git clone https://github.com/beckettharriman/openfill.git\n# see the README for setup",
-  "found": "2026-10-27"
- },
- {
-  "name": "ai-wallet-binance",
-  "url": "jacke-pp/ai-wallet-binance",
-  "license": "MIT",
-  "desc": "让任何 AI 用你自己的币安 AI 钱包交易：秒买秒卖、狙击 Agent 专属发射台（Four、Flap、GANG）、AI 专属 Mint、本机交易页面。币安签名，不碰私钥。Let any AI trade with your own Binance AI wallet.",
-  "usage": "git clone https://github.com/jacke-pp/ai-wallet-binance.git\n# see the README for setup",
-  "found": "2026-10-27"
- },
- {
-  "name": "scout",
-  "url": "outcrawlai/scout",
-  "license": "Apache-2.0",
-  "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-  "usage": "git clone https://github.com/outcrawlai/scout.git\n# see the README for setup",
-  "found": "2026-10-26"
  }
 ]

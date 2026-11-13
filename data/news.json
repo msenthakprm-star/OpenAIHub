@@ -1,9 +1,30 @@
 [
  {
+  "date": "2026-11-13",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+  "title": "Trending on Hugging Face: Comfy-Org/MiniMax-H3-Image",
+  "summary": "Task: text-to-image. 325 likes, 1257301 downloads."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "summary": ""
+ },
+ {
   "date": "2026-11-12",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/3d-lora-finetuning",
   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-12",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
   "summary": ""
  },
  {
@@ -126,6 +147,20 @@
   "summary": ""
  },
  {
+  "date": "2026-11-06",
+  "tag": "New repo",
+  "url": "https://github.com/DIYgod/pinky",
+  "title": "New repo: DIYgod/pinky (2065 stars)",
+  "summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone."
+ },
+ {
+  "date": "2026-11-06",
+  "tag": "New repo",
+  "url": "https://github.com/shany9200/Three",
+  "title": "New repo: shany9200/Three (107 stars)",
+  "summary": "A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions."
+ },
+ {
   "date": "2026-11-05",
   "tag": "Trending",
   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
@@ -194,6 +229,20 @@
   "url": "https://github.com/silverdugongenhance/PromptReel",
   "title": "New repo: silverdugongenhance/PromptReel (206 stars)",
   "summary": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11."
+ },
+ {
+  "date": "2026-11-04",
+  "tag": "New repo",
+  "url": "https://github.com/hyperionaidev/smolmaxxing",
+  "title": "New repo: hyperionaidev/smolmaxxing (546 stars)",
+  "summary": "maxxing the ability to run different LLMs on the smallest devices possible"
+ },
+ {
+  "date": "2026-11-04",
+  "tag": "New repo",
+  "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+  "title": "New repo: TIGER-AI-Lab/WebsiteBench (319 stars)",
+  "summary": "Can AI agents rebuild websites through browser exploration?"
  },
  {
   "date": "2026-11-03",
