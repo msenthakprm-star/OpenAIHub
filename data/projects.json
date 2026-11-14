@@ -1,5 +1,109 @@
 [
  {
+  "name": "ai--manus",
+  "url": "BladesmithPanel/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/BladesmithPanel/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "Aspectnisafeguard/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/Aspectnisafeguard/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "Beigeloencoder/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/Beigeloencoder/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "armsworminterface/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/armsworminterface/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "Boarddrunail/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/Boarddrunail/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "GryphonEmpress/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/GryphonEmpress/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "HurricaneMonarchDart/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/HurricaneMonarchDart/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "ClampOverlord46/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/ClampOverlord46/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "WinnerBrokerBarrow/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/WinnerBrokerBarrow/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "Lowbydemodulator/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/Lowbydemodulator/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "ai--manus",
+  "url": "AvenueBudgieShop/ai--manus",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/AvenueBudgieShop/ai--manus.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "legwork-osint-ai-investigator",
+  "url": "StormBrawlerSack/legwork-osint-ai-investigator",
+  "license": "MIT",
+  "desc": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
+  "usage": "git clone https://github.com/StormBrawlerSack/legwork-osint-ai-investigator.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
+  "name": "shamus-osint-ai-agent",
+  "url": "RouteInferno/shamus-osint-ai-agent",
+  "license": "MIT",
+  "desc": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
+  "usage": "git clone https://github.com/RouteInferno/shamus-osint-ai-agent.git\n# see the README for setup",
+  "found": "2026-11-14"
+ },
+ {
   "name": "smolmaxxing",
   "url": "hyperionaidev/smolmaxxing",
   "license": "MIT",
@@ -214,109 +318,5 @@
   "desc": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
   "usage": "git clone https://github.com/SAOS-3624/dsh-see-now.git\n# see the README for setup",
   "found": "2026-11-02"
- },
- {
-  "name": "DSH-Android",
-  "url": "jackwener/DSH-Android",
-  "license": "Apache-2.0",
-  "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-  "usage": "git clone https://github.com/jackwener/DSH-Android.git\n# see the README for setup",
-  "found": "2026-10-31"
- },
- {
-  "name": "sapper-v2",
-  "url": "N1nEmAn/sapper-v2",
-  "license": "MIT",
-  "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs...",
-  "usage": "git clone https://github.com/N1nEmAn/sapper-v2.git\n# see the README for setup",
-  "found": "2026-10-31"
- },
- {
-  "name": "Capri-AI",
-  "url": "boardshogunfluctuate/Capri-AI",
-  "license": "MIT",
-  "desc": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
-  "usage": "git clone https://github.com/boardshogunfluctuate/Capri-AI.git\n# see the README for setup",
-  "found": "2026-10-31"
- },
- {
-  "name": "Pi-Remote",
-  "url": "Xpropel/Pi-Remote",
-  "license": "MIT",
-  "desc": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands from your phone — end-to-end encrypted over a self-hosted relay.",
-  "usage": "git clone https://github.com/Xpropel/Pi-Remote.git\n# see the README for setup",
-  "found": "2026-10-31"
- },
- {
-  "name": "dsh-Go",
-  "url": "ccch1mneyyy/dsh-Go",
-  "license": "AGPL-3.0",
-  "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-  "usage": "git clone https://github.com/ccch1mneyyy/dsh-Go.git\n# see the README for setup",
-  "found": "2026-10-30"
- },
- {
-  "name": "DeepseekHarness-Android",
-  "url": "jackwener/DeepseekHarness-Android",
-  "license": "Apache-2.0",
-  "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-  "usage": "git clone https://github.com/jackwener/DeepseekHarness-Android.git\n# see the README for setup",
-  "found": "2026-10-30"
- },
- {
-  "name": "Mika",
-  "url": "wangzan101/Mika",
-  "license": "Apache-2.0",
-  "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-  "usage": "git clone https://github.com/wangzan101/Mika.git\n# see the README for setup",
-  "found": "2026-10-30"
- },
- {
-  "name": "grim-prompter",
-  "url": "jmanico/grim-prompter",
-  "license": "MIT",
-  "desc": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
-  "usage": "git clone https://github.com/jmanico/grim-prompter.git\n# see the README for setup",
-  "found": "2026-10-30"
- },
- {
-  "name": "astrbot-for-android",
-  "url": "JunWan666/astrbot-for-android",
-  "license": "MIT",
-  "desc": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-  "usage": "git clone https://github.com/JunWan666/astrbot-for-android.git\n# see the README for setup",
-  "found": "2026-10-28"
- },
- {
-  "name": "MyAgent",
-  "url": "ztt0216/MyAgent",
-  "license": "MIT",
-  "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
-  "usage": "git clone https://github.com/ztt0216/MyAgent.git\n# see the README for setup",
-  "found": "2026-10-28"
- },
- {
-  "name": "anymove",
-  "url": "patch-gg/anymove",
-  "license": "Apache-2.0",
-  "desc": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-  "usage": "git clone https://github.com/patch-gg/anymove.git\n# see the README for setup",
-  "found": "2026-10-28"
- },
- {
-  "name": "design-agent",
-  "url": "langchain-ai/design-agent",
-  "license": "Apache-2.0",
-  "desc": "Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents.",
-  "usage": "git clone https://github.com/langchain-ai/design-agent.git\n# see the README for setup",
-  "found": "2026-10-28"
- },
- {
-  "name": "hob",
-  "url": "FrigadeHQ/hob",
-  "license": "MIT",
-  "desc": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and works offline.",
-  "usage": "git clone https://github.com/FrigadeHQ/hob.git\n# see the README for setup",
-  "found": "2026-10-27"
  }
 ]

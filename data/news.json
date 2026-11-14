@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-14",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+  "title": "Trending on Hugging Face: Zyphra/ZONOS3-Mini",
+  "summary": "Task: text-to-speech. 327 likes, 19743 downloads."
+ },
+ {
   "date": "2026-11-13",
   "tag": "Trending",
   "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
@@ -12,6 +19,111 @@
   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
   "summary": ""
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "title": "XYBench: Helping with the problem behind the question",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/BladesmithPanel/ai--manus",
+  "title": "New repo: BladesmithPanel/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/Aspectnisafeguard/ai--manus",
+  "title": "New repo: Aspectnisafeguard/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/Beigeloencoder/ai--manus",
+  "title": "New repo: Beigeloencoder/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/armsworminterface/ai--manus",
+  "title": "New repo: armsworminterface/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/Boarddrunail/ai--manus",
+  "title": "New repo: Boarddrunail/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/GryphonEmpress/ai--manus",
+  "title": "New repo: GryphonEmpress/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/HurricaneMonarchDart/ai--manus",
+  "title": "New repo: HurricaneMonarchDart/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/ClampOverlord46/ai--manus",
+  "title": "New repo: ClampOverlord46/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/WinnerBrokerBarrow/ai--manus",
+  "title": "New repo: WinnerBrokerBarrow/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/Lowbydemodulator/ai--manus",
+  "title": "New repo: Lowbydemodulator/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/AvenueBudgieShop/ai--manus",
+  "title": "New repo: AvenueBudgieShop/ai--manus (266 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/StormBrawlerSack/legwork-osint-ai-investigator",
+  "title": "New repo: StormBrawlerSack/legwork-osint-ai-investigator (196 stars)",
+  "summary": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence."
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/RouteInferno/shamus-osint-ai-agent",
+  "title": "New repo: RouteInferno/shamus-osint-ai-agent (157 stars)",
+  "summary": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file."
  },
  {
   "date": "2026-11-12",
