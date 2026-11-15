@@ -1,10 +1,94 @@
 [
  {
+  "date": "2026-11-15",
+  "tag": "Trending",
+  "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+  "title": "Trending on Hugging Face: thinkingmachines/Inkling-2-Small",
+  "summary": "Task: image-text-to-text. 331 likes, 7329 downloads."
+ },
+ {
   "date": "2026-11-14",
   "tag": "Trending",
   "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
   "title": "Trending on Hugging Face: Zyphra/ZONOS3-Mini",
   "summary": "Task: text-to-speech. 327 likes, 19743 downloads."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/Topkiflare74/ai--manus2.0",
+  "title": "New repo: Topkiflare74/ai--manus2.0 (678 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+  "title": "New repo: topapothecarycanal/ai--manus2.0 (666 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/toppatronweave/ai--manus2.0",
+  "title": "New repo: toppatronweave/ai--manus2.0 (665 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/topconstableinlet67/ai--manus2.0",
+  "title": "New repo: topconstableinlet67/ai--manus2.0 (663 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/tornadonovicewhirl40/ai--manus2.0",
+  "title": "New repo: tornadonovicewhirl40/ai--manus2.0 (659 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/TitanShieldRavine/ai--manus2.0",
+  "title": "New repo: TitanShieldRavine/ai--manus2.0 (659 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/Ultimateakiln/ai--manus2.0",
+  "title": "New repo: Ultimateakiln/ai--manus2.0 (654 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/trackersnailgrip/ai--manus2.0",
+  "title": "New repo: trackersnailgrip/ai--manus2.0 (654 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/TrapBladesmith/ai--manus2.0",
+  "title": "New repo: TrapBladesmith/ai--manus2.0 (653 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/Torusdrasocket/ai--manus2.0",
+  "title": "New repo: Torusdrasocket/ai--manus2.0 (653 stars)",
+  "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/Outpostkrewhirl86/Capri-AI",
+  "title": "New repo: Outpostkrewhirl86/Capri-AI (345 stars)",
+  "summary": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk:..."
  },
  {
   "date": "2026-11-13",
@@ -159,6 +243,13 @@
   "url": "https://huggingface.co/blog/token-pooling",
   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
   "summary": ""
+ },
+ {
+  "date": "2026-11-11",
+  "tag": "New repo",
+  "url": "https://github.com/fendouai/ViralForge",
+  "title": "New repo: fendouai/ViralForge (195 stars)",
+  "summary": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0."
  },
  {
   "date": "2026-11-10",

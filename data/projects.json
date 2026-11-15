@@ -1,5 +1,101 @@
 [
  {
+  "name": "ai--manus2.0",
+  "url": "Topkiflare74/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/Topkiflare74/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "topapothecarycanal/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/topapothecarycanal/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "toppatronweave/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/toppatronweave/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "topconstableinlet67/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/topconstableinlet67/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "tornadonovicewhirl40/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/tornadonovicewhirl40/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "TitanShieldRavine/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/TitanShieldRavine/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "Ultimateakiln/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/Ultimateakiln/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "trackersnailgrip/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/trackersnailgrip/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "TrapBladesmith/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/TrapBladesmith/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ai--manus2.0",
+  "url": "Torusdrasocket/ai--manus2.0",
+  "license": "Apache-2.0",
+  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "usage": "git clone https://github.com/Torusdrasocket/ai--manus2.0.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "Capri-AI",
+  "url": "Outpostkrewhirl86/Capri-AI",
+  "license": "MIT",
+  "desc": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk:...",
+  "usage": "git clone https://github.com/Outpostkrewhirl86/Capri-AI.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
+  "name": "ViralForge",
+  "url": "fendouai/ViralForge",
+  "license": "Apache-2.0",
+  "desc": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0.",
+  "usage": "git clone https://github.com/fendouai/ViralForge.git\n# see the README for setup",
+  "found": "2026-11-15"
+ },
+ {
   "name": "ai--manus",
   "url": "BladesmithPanel/ai--manus",
   "license": "Apache-2.0",
@@ -222,101 +318,5 @@
   "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
   "usage": "git clone https://github.com/ZSeven-W/dsh-game-studio.git\n# see the README for setup",
   "found": "2026-11-09"
- },
- {
-  "name": "NextTransformer",
-  "url": "Interactive-Active-AI/NextTransformer",
-  "license": "MIT",
-  "desc": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
-  "usage": "git clone https://github.com/Interactive-Active-AI/NextTransformer.git\n# see the README for setup",
-  "found": "2026-11-08"
- },
- {
-  "name": "fish-pocket",
-  "url": "imsai-sh/fish-pocket",
-  "license": "MIT",
-  "desc": "Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生。",
-  "usage": "git clone https://github.com/imsai-sh/fish-pocket.git\n# see the README for setup",
-  "found": "2026-11-08"
- },
- {
-  "name": "antiglaude",
-  "url": "sksarvesh007/antiglaude",
-  "license": "MIT",
-  "desc": "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API",
-  "usage": "git clone https://github.com/sksarvesh007/antiglaude.git\n# see the README for setup",
-  "found": "2026-11-07"
- },
- {
-  "name": "sand3d",
-  "url": "Sandflow-ai/sand3d",
-  "license": "Apache-2.0",
-  "desc": "3D modeling in Python, built for LLMs.",
-  "usage": "git clone https://github.com/Sandflow-ai/sand3d.git\n# see the README for setup",
-  "found": "2026-11-06"
- },
- {
-  "name": "mianstack",
-  "url": "didilili/mianstack",
-  "license": "MIT",
-  "desc": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-  "usage": "git clone https://github.com/didilili/mianstack.git\n# see the README for setup",
-  "found": "2026-11-06"
- },
- {
-  "name": "papilot",
-  "url": "PapilotAI/papilot",
-  "license": "MIT",
-  "desc": "Next-Generation AI LaTeX Editor: Don't read or write LaTeX. Just work on the PDF.",
-  "usage": "git clone https://github.com/PapilotAI/papilot.git\n# see the README for setup",
-  "found": "2026-11-06"
- },
- {
-  "name": "ian-xhs-carousel",
-  "url": "helloianneo/ian-xhs-carousel",
-  "license": "MIT",
-  "desc": "把文章、案例或笔记排成 3:4 小红书图文 | 1080×1440 | 20 个母版 | 浅色 / 深色 | Claude Code Skill",
-  "usage": "git clone https://github.com/helloianneo/ian-xhs-carousel.git\n# see the README for setup",
-  "found": "2026-11-03"
- },
- {
-  "name": "AnyModelBot",
-  "url": "modelflare-ai/AnyModelBot",
-  "license": "MIT",
-  "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app,...",
-  "usage": "git clone https://github.com/modelflare-ai/AnyModelBot.git\n# see the README for setup",
-  "found": "2026-11-02"
- },
- {
-  "name": "uncut",
-  "url": "Balanov/uncut",
-  "license": "MIT",
-  "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-  "usage": "git clone https://github.com/Balanov/uncut.git\n# see the README for setup",
-  "found": "2026-11-02"
- },
- {
-  "name": "inferssd",
-  "url": "wici-ai/inferssd",
-  "license": "Apache-2.0",
-  "desc": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
-  "usage": "git clone https://github.com/wici-ai/inferssd.git\n# see the README for setup",
-  "found": "2026-11-02"
- },
- {
-  "name": "NamiAgent",
-  "url": "aa1143/NamiAgent",
-  "license": "MIT",
-  "desc": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
-  "usage": "git clone https://github.com/aa1143/NamiAgent.git\n# see the README for setup",
-  "found": "2026-11-02"
- },
- {
-  "name": "dsh-see-now",
-  "url": "SAOS-3624/dsh-see-now",
-  "license": "Apache-2.0",
-  "desc": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-  "usage": "git clone https://github.com/SAOS-3624/dsh-see-now.git\n# see the README for setup",
-  "found": "2026-11-02"
  }
 ]
