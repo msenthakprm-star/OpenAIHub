@@ -1,5 +1,117 @@
 [
  {
+  "name": "sand3d",
+  "url": "Sandflow-ai/sand3d",
+  "license": "Apache-2.0",
+  "desc": "3D modeling in Python, built for LLMs.",
+  "usage": "git clone https://github.com/Sandflow-ai/sand3d.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "blender-ai-mcp-addon",
+  "url": "hitkeeen/blender-ai-mcp-addon",
+  "license": "MIT",
+  "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+  "usage": "git clone https://github.com/hitkeeen/blender-ai-mcp-addon.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "YellowLaborerMarket/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/YellowLaborerMarket/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WireProvostPucker/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WireProvostPucker/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WinnerSpecialist/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WinnerSpecialist/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "VortexHostFeel/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/VortexHostFeel/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WingDataVacuum/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WingDataVacuum/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WindGatorRise37/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WindGatorRise37/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "weightcashiercupola/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/weightcashiercupola/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "TypeTyrantScheme/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/TypeTyrantScheme/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "TrooperFilter/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/TrooperFilter/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WharfBoulderColander/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WharfBoulderColander/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "TurtleReside/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/TurtleReside/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
+  "name": "antiglaude",
+  "url": "sksarvesh007/antiglaude",
+  "license": "MIT",
+  "desc": "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API",
+  "usage": "git clone https://github.com/sksarvesh007/antiglaude.git\n# see the README for setup",
+  "found": "2026-11-16"
+ },
+ {
   "name": "ai--manus2.0",
   "url": "Topkiflare74/ai--manus2.0",
   "license": "Apache-2.0",
@@ -206,117 +318,5 @@
   "desc": "maxxing the ability to run different LLMs on the smallest devices possible",
   "usage": "git clone https://github.com/hyperionaidev/smolmaxxing.git\n# see the README for setup",
   "found": "2026-11-13"
- },
- {
-  "name": "WebsiteBench",
-  "url": "TIGER-AI-Lab/WebsiteBench",
-  "license": "Apache-2.0",
-  "desc": "Can AI agents rebuild websites through browser exploration?",
-  "usage": "git clone https://github.com/TIGER-AI-Lab/WebsiteBench.git\n# see the README for setup",
-  "found": "2026-11-13"
- },
- {
-  "name": "pinky",
-  "url": "DIYgod/pinky",
-  "license": "Apache-2.0",
-  "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-  "usage": "git clone https://github.com/DIYgod/pinky.git\n# see the README for setup",
-  "found": "2026-11-13"
- },
- {
-  "name": "Three",
-  "url": "shany9200/Three",
-  "license": "MIT",
-  "desc": "A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions.",
-  "usage": "git clone https://github.com/shany9200/Three.git\n# see the README for setup",
-  "found": "2026-11-13"
- },
- {
-  "name": "agentes-chat",
-  "url": "agentes-chat/agentes-chat",
-  "license": "AGPL-3.0",
-  "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory...",
-  "usage": "git clone https://github.com/agentes-chat/agentes-chat.git\n# see the README for setup",
-  "found": "2026-11-12"
- },
- {
-  "name": "issue-rag",
-  "url": "zaxiu88888/issue-rag",
-  "license": "MIT",
-  "desc": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-  "usage": "git clone https://github.com/zaxiu88888/issue-rag.git\n# see the README for setup",
-  "found": "2026-11-12"
- },
- {
-  "name": "decision-forge",
-  "url": "Juneo-Lab/decision-forge",
-  "license": "Apache-2.0",
-  "desc": "Compile organizational policy into verifiable decision training data.",
-  "usage": "git clone https://github.com/Juneo-Lab/decision-forge.git\n# see the README for setup",
-  "found": "2026-11-12"
- },
- {
-  "name": "handle-mcp",
-  "url": "NJohansen/handle-mcp",
-  "license": "MIT",
-  "desc": "MCP server for nemlig.com, BilkaToGo, Rema1000: search products, add to cart and price comparisons. You always accept and pay yourself.",
-  "usage": "git clone https://github.com/NJohansen/handle-mcp.git\n# see the README for setup",
-  "found": "2026-11-12"
- },
- {
-  "name": "ste80-humanizer",
-  "url": "Dodaios/ste80-humanizer",
-  "license": "MIT",
-  "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-  "usage": "git clone https://github.com/Dodaios/ste80-humanizer.git\n# see the README for setup",
-  "found": "2026-11-11"
- },
- {
-  "name": "turkish-anti-ai-skill",
-  "url": "yucezerey/turkish-anti-ai-skill",
-  "license": "MIT",
-  "desc": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
-  "usage": "git clone https://github.com/yucezerey/turkish-anti-ai-skill.git\n# see the README for setup",
-  "found": "2026-11-11"
- },
- {
-  "name": "SoduWork",
-  "url": "mdiri-ai/SoduWork",
-  "license": "MIT",
-  "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-  "usage": "git clone https://github.com/mdiri-ai/SoduWork.git\n# see the README for setup",
-  "found": "2026-11-11"
- },
- {
-  "name": "trnrt",
-  "url": "RunanywhereAI/trnrt",
-  "license": "Apache-2.0",
-  "desc": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
-  "usage": "git clone https://github.com/RunanywhereAI/trnrt.git\n# see the README for setup",
-  "found": "2026-11-10"
- },
- {
-  "name": "cheap-ag",
-  "url": "muaaz9329/cheap-ag",
-  "license": "MIT",
-  "desc": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
-  "usage": "git clone https://github.com/muaaz9329/cheap-ag.git\n# see the README for setup",
-  "found": "2026-11-10"
- },
- {
-  "name": "PromptReel",
-  "url": "silverdugongenhance/PromptReel",
-  "license": "MIT",
-  "desc": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
-  "usage": "git clone https://github.com/silverdugongenhance/PromptReel.git\n# see the README for setup",
-  "found": "2026-11-09"
- },
- {
-  "name": "dsh-game-studio",
-  "url": "ZSeven-W/dsh-game-studio",
-  "license": "MIT",
-  "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-  "usage": "git clone https://github.com/ZSeven-W/dsh-game-studio.git\n# see the README for setup",
-  "found": "2026-11-09"
  }
 ]

@@ -1,10 +1,108 @@
 [
  {
+  "date": "2026-11-16",
+  "tag": "Trending",
+  "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+  "title": "Trending on Hugging Face: higurashi-ai/Haru-4B",
+  "summary": "Task: audio-to-audio. 381 likes, 3372 downloads."
+ },
+ {
+  "date": "2026-11-16",
+  "tag": "Trending",
+  "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+  "title": "Trending on Hugging Face: unsloth/Qwen3.8-27B-GGUF",
+  "summary": "Task: n/a. 6038 likes, 6666734 downloads."
+ },
+ {
+  "date": "2026-11-16",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+  "title": "Trending on Hugging Face: Edge0/Edge0-145B-NVFP4",
+  "summary": "Task: text-generation. 351 likes, 55335 downloads."
+ },
+ {
   "date": "2026-11-15",
   "tag": "Trending",
   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
   "title": "Trending on Hugging Face: thinkingmachines/Inkling-2-Small",
   "summary": "Task: image-text-to-text. 331 likes, 7329 downloads."
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+  "title": "New repo: YellowLaborerMarket/Gemini-Config-Checker- (474 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+  "title": "New repo: WireProvostPucker/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+  "title": "New repo: WinnerSpecialist/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+  "title": "New repo: VortexHostFeel/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+  "title": "New repo: WingDataVacuum/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+  "title": "New repo: WindGatorRise37/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+  "title": "New repo: weightcashiercupola/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+  "title": "New repo: TypeTyrantScheme/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+  "title": "New repo: TrooperFilter/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+  "title": "New repo: WharfBoulderColander/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+  "title": "New repo: TurtleReside/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
  },
  {
   "date": "2026-11-14",
@@ -222,6 +320,13 @@
   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
   "summary": ""
+ },
+ {
+  "date": "2026-11-12",
+  "tag": "New repo",
+  "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+  "title": "New repo: hitkeeen/blender-ai-mcp-addon (2020 stars)",
+  "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
  },
  {
   "date": "2026-11-11",
