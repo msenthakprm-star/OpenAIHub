@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-17",
+  "tag": "Trending",
+  "url": "https://huggingface.co/facebook/sam3",
+  "title": "Trending on Hugging Face: facebook/sam3",
+  "summary": "Task: mask-generation. 6856 likes, 1971023 downloads."
+ },
+ {
   "date": "2026-11-16",
   "tag": "Trending",
   "url": "https://huggingface.co/higurashi-ai/Haru-4B",
@@ -19,6 +26,20 @@
   "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
   "title": "Trending on Hugging Face: Edge0/Edge0-145B-NVFP4",
   "summary": "Task: text-generation. 351 likes, 55335 downloads."
+ },
+ {
+  "date": "2026-11-16",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/openrouter",
+  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-16",
+  "tag": "New repo",
+  "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+  "title": "New repo: sybil-solutions/inference-optimisation-skill (686 stars)",
+  "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
  },
  {
   "date": "2026-11-15",
@@ -102,6 +123,13 @@
   "tag": "New repo",
   "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
   "title": "New repo: TurtleReside/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+  "title": "New repo: Violetnyudress/Gemini-Config-Checker- (473 stars)",
   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
  },
  {
@@ -308,6 +336,13 @@
   "summary": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file."
  },
  {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/ysunyang4/Nexus",
+  "title": "New repo: ysunyang4/Nexus (365 stars)",
+  "summary": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent"
+ },
+ {
   "date": "2026-11-12",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -355,6 +390,13 @@
   "url": "https://github.com/fendouai/ViralForge",
   "title": "New repo: fendouai/ViralForge (195 stars)",
   "summary": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0."
+ },
+ {
+  "date": "2026-11-11",
+  "tag": "New repo",
+  "url": "https://github.com/ysunyang4/webagent",
+  "title": "New repo: ysunyang4/webagent (143 stars)",
+  "summary": "Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用"
  },
  {
   "date": "2026-11-10",

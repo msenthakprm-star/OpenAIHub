@@ -1,5 +1,77 @@
 [
  {
+  "name": "agentes-chat",
+  "url": "agentes-chat/agentes-chat",
+  "license": "AGPL-3.0",
+  "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory...",
+  "usage": "git clone https://github.com/agentes-chat/agentes-chat.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "ste80-humanizer",
+  "url": "Dodaios/ste80-humanizer",
+  "license": "MIT",
+  "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+  "usage": "git clone https://github.com/Dodaios/ste80-humanizer.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "inference-optimisation-skill",
+  "url": "sybil-solutions/inference-optimisation-skill",
+  "license": "MIT",
+  "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+  "usage": "git clone https://github.com/sybil-solutions/inference-optimisation-skill.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "WebsiteBench",
+  "url": "TIGER-AI-Lab/WebsiteBench",
+  "license": "Apache-2.0",
+  "desc": "Can AI agents rebuild websites through browser exploration?",
+  "usage": "git clone https://github.com/TIGER-AI-Lab/WebsiteBench.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "Violetnyudress/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/Violetnyudress/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "pinky",
+  "url": "DIYgod/pinky",
+  "license": "Apache-2.0",
+  "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+  "usage": "git clone https://github.com/DIYgod/pinky.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "dsh-game-studio",
+  "url": "ZSeven-W/dsh-game-studio",
+  "license": "MIT",
+  "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+  "usage": "git clone https://github.com/ZSeven-W/dsh-game-studio.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "Nexus",
+  "url": "ysunyang4/Nexus",
+  "license": "AGPL-3.0",
+  "desc": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
+  "usage": "git clone https://github.com/ysunyang4/Nexus.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
+  "name": "webagent",
+  "url": "ysunyang4/webagent",
+  "license": "GPL-3.0",
+  "desc": "Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用",
+  "usage": "git clone https://github.com/ysunyang4/webagent.git\n# see the README for setup",
+  "found": "2026-11-17"
+ },
+ {
   "name": "sand3d",
   "url": "Sandflow-ai/sand3d",
   "license": "Apache-2.0",
@@ -246,77 +318,5 @@
   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
   "usage": "git clone https://github.com/Boarddrunail/ai--manus.git\n# see the README for setup",
   "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "GryphonEmpress/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/GryphonEmpress/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "HurricaneMonarchDart/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/HurricaneMonarchDart/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "ClampOverlord46/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/ClampOverlord46/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "WinnerBrokerBarrow/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/WinnerBrokerBarrow/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "Lowbydemodulator/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/Lowbydemodulator/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "AvenueBudgieShop/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/AvenueBudgieShop/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "legwork-osint-ai-investigator",
-  "url": "StormBrawlerSack/legwork-osint-ai-investigator",
-  "license": "MIT",
-  "desc": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
-  "usage": "git clone https://github.com/StormBrawlerSack/legwork-osint-ai-investigator.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "shamus-osint-ai-agent",
-  "url": "RouteInferno/shamus-osint-ai-agent",
-  "license": "MIT",
-  "desc": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
-  "usage": "git clone https://github.com/RouteInferno/shamus-osint-ai-agent.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "smolmaxxing",
-  "url": "hyperionaidev/smolmaxxing",
-  "license": "MIT",
-  "desc": "maxxing the ability to run different LLMs on the smallest devices possible",
-  "usage": "git clone https://github.com/hyperionaidev/smolmaxxing.git\n# see the README for setup",
-  "found": "2026-11-13"
  }
 ]
