@@ -1,5 +1,45 @@
 [
  {
+  "name": "Gemini-Config-Checker-",
+  "url": "Visionbeyondtrack/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/Visionbeyondtrack/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-18"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WyrmClimberManacle/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WyrmClimberManacle/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-18"
+ },
+ {
+  "name": "legwork-osint-ai-investigator",
+  "url": "StormBrawlerSack/legwork-osint-ai-investigator",
+  "license": "MIT",
+  "desc": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
+  "usage": "git clone https://github.com/StormBrawlerSack/legwork-osint-ai-investigator.git\n# see the README for setup",
+  "found": "2026-11-18"
+ },
+ {
+  "name": "shamus-osint-ai-agent",
+  "url": "RouteInferno/shamus-osint-ai-agent",
+  "license": "MIT",
+  "desc": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
+  "usage": "git clone https://github.com/RouteInferno/shamus-osint-ai-agent.git\n# see the README for setup",
+  "found": "2026-11-18"
+ },
+ {
+  "name": "grand-tour-skill",
+  "url": "237Zidane/grand-tour-skill",
+  "license": "MIT",
+  "desc": "Grand Tour Skill: orchestrated developer library for /grand-tour",
+  "usage": "git clone https://github.com/237Zidane/grand-tour-skill.git\n# see the README for setup",
+  "found": "2026-11-18"
+ },
+ {
   "name": "agentes-chat",
   "url": "agentes-chat/agentes-chat",
   "license": "AGPL-3.0",
@@ -278,45 +318,5 @@
   "desc": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0.",
   "usage": "git clone https://github.com/fendouai/ViralForge.git\n# see the README for setup",
   "found": "2026-11-15"
- },
- {
-  "name": "ai--manus",
-  "url": "BladesmithPanel/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/BladesmithPanel/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "Aspectnisafeguard/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/Aspectnisafeguard/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "Beigeloencoder/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/Beigeloencoder/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "armsworminterface/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/armsworminterface/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
- },
- {
-  "name": "ai--manus",
-  "url": "Boarddrunail/ai--manus",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/Boarddrunail/ai--manus.git\n# see the README for setup",
-  "found": "2026-11-14"
  }
 ]

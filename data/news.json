@@ -1,5 +1,54 @@
 [
  {
+  "date": "2026-11-18",
+  "tag": "Trending",
+  "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+  "title": "Trending on Hugging Face: harness-hub/Qwen3.8-27B-pi-adapted",
+  "summary": "Task: image-text-to-text. 326 likes, 377 downloads."
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Trending",
+  "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+  "title": "Trending on Hugging Face: chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+  "summary": "Task: text-to-image. 583 likes, 224306 downloads."
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Trending",
+  "url": "https://huggingface.co/n4ze3m/tiny-voca",
+  "title": "Trending on Hugging Face: n4ze3m/tiny-voca",
+  "summary": "Task: text-to-speech. 274 likes, 4430 downloads."
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Trending",
+  "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+  "title": "Trending on Hugging Face: meituan-longcat/LongCat-Video-Avatar-1.6",
+  "summary": "Task: n/a. 247 likes, 1226 downloads."
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Trending",
+  "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
+  "title": "Trending on Hugging Face: maxwell-model/Maxwell-V1-Flash",
+  "summary": "Task: text-generation. 215 likes, 1052 downloads."
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/rumble-2-flash",
+  "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "summary": ""
+ },
+ {
   "date": "2026-11-17",
   "tag": "Trending",
   "url": "https://huggingface.co/facebook/sam3",
@@ -131,6 +180,27 @@
   "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
   "title": "New repo: Violetnyudress/Gemini-Config-Checker- (473 stars)",
   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+  "title": "New repo: Visionbeyondtrack/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+  "title": "New repo: WyrmClimberManacle/Gemini-Config-Checker- (473 stars)",
+  "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+ },
+ {
+  "date": "2026-11-15",
+  "tag": "New repo",
+  "url": "https://github.com/237Zidane/grand-tour-skill",
+  "title": "New repo: 237Zidane/grand-tour-skill (153 stars)",
+  "summary": "Grand Tour Skill: orchestrated developer library for /grand-tour"
  },
  {
   "date": "2026-11-14",
