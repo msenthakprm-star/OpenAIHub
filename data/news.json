@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-11-19",
+  "tag": "Trending",
+  "url": "https://huggingface.co/tencent/Hy4-flash",
+  "title": "Trending on Hugging Face: tencent/Hy4-flash",
+  "summary": "Task: image-text-to-text. 301 likes, 2053 downloads."
+ },
+ {
+  "date": "2026-11-19",
+  "tag": "Trending",
+  "url": "https://huggingface.co/apple/FastFrames-L",
+  "title": "Trending on Hugging Face: apple/FastFrames-L",
+  "summary": "Task: text-to-video. 270 likes, 0 downloads."
+ },
+ {
   "date": "2026-11-18",
   "tag": "Trending",
   "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
@@ -46,6 +60,27 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/rumble-2-flash",
   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-18",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/moe-expert-streaming",
+  "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
   "summary": ""
  },
  {
@@ -413,6 +448,13 @@
   "summary": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent"
  },
  {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/oil-oil/agy-fast-io",
+  "title": "New repo: oil-oil/agy-fast-io (138 stars)",
+  "summary": "让 Antigravity 少走回合、少等审查的本地规则插件（非官方）"
+ },
+ {
   "date": "2026-11-12",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -537,6 +579,13 @@
   "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
   "title": "Trending on Hugging Face: DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
   "summary": "Task: image-text-to-text. 2625 likes, 1545313 downloads."
+ },
+ {
+  "date": "2026-11-07",
+  "tag": "New repo",
+  "url": "https://github.com/kilolonion/agent-vscreen",
+  "title": "New repo: kilolonion/agent-vscreen (151 stars)",
+  "summary": "A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。"
  },
  {
   "date": "2026-11-06",

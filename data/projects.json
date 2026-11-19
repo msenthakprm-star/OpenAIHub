@@ -1,5 +1,21 @@
 [
  {
+  "name": "agent-vscreen",
+  "url": "kilolonion/agent-vscreen",
+  "license": "MIT",
+  "desc": "A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。",
+  "usage": "git clone https://github.com/kilolonion/agent-vscreen.git\n# see the README for setup",
+  "found": "2026-11-19"
+ },
+ {
+  "name": "agy-fast-io",
+  "url": "oil-oil/agy-fast-io",
+  "license": "MIT",
+  "desc": "让 Antigravity 少走回合、少等审查的本地规则插件（非官方）",
+  "usage": "git clone https://github.com/oil-oil/agy-fast-io.git\n# see the README for setup",
+  "found": "2026-11-19"
+ },
+ {
   "name": "Gemini-Config-Checker-",
   "url": "Visionbeyondtrack/Gemini-Config-Checker-",
   "license": "Apache-2.0",
@@ -301,22 +317,6 @@
   "license": "Apache-2.0",
   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
   "usage": "git clone https://github.com/Torusdrasocket/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "Capri-AI",
-  "url": "Outpostkrewhirl86/Capri-AI",
-  "license": "MIT",
-  "desc": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk:...",
-  "usage": "git clone https://github.com/Outpostkrewhirl86/Capri-AI.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "ViralForge",
-  "url": "fendouai/ViralForge",
-  "license": "Apache-2.0",
-  "desc": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0.",
-  "usage": "git clone https://github.com/fendouai/ViralForge.git\n# see the README for setup",
   "found": "2026-11-15"
  }
 ]
