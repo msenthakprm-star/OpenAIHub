@@ -1,5 +1,26 @@
 [
  {
+  "date": "2026-11-20",
+  "tag": "Trending",
+  "url": "https://huggingface.co/inworld/voice-isolator",
+  "title": "Trending on Hugging Face: inworld/voice-isolator",
+  "summary": "Task: audio-to-audio. 347 likes, 0 downloads."
+ },
+ {
+  "date": "2026-11-20",
+  "tag": "Trending",
+  "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+  "title": "Trending on Hugging Face: sensenova/SenseNova-Loop-9B",
+  "summary": "Task: image-text-to-text. 412 likes, 1631 downloads."
+ },
+ {
+  "date": "2026-11-20",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "summary": ""
+ },
+ {
   "date": "2026-11-19",
   "tag": "Trending",
   "url": "https://huggingface.co/tencent/Hy4-flash",
@@ -12,6 +33,13 @@
   "url": "https://huggingface.co/apple/FastFrames-L",
   "title": "Trending on Hugging Face: apple/FastFrames-L",
   "summary": "Task: text-to-video. 270 likes, 0 downloads."
+ },
+ {
+  "date": "2026-11-19",
+  "tag": "New repo",
+  "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+  "title": "New repo: bookwjitchieni1986/blender-ai-mcp-addon (1034 stars)",
+  "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
  },
  {
   "date": "2026-11-18",
@@ -320,6 +348,13 @@
   "url": "https://github.com/Outpostkrewhirl86/Capri-AI",
   "title": "New repo: Outpostkrewhirl86/Capri-AI (345 stars)",
   "summary": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk:..."
+ },
+ {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/oriliz/agent-crop",
+  "title": "New repo: oriliz/agent-crop (151 stars)",
+  "summary": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 | A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-improvement loop. DSH / Claude Code / Codex."
  },
  {
   "date": "2026-11-13",
