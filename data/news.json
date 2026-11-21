@@ -1,5 +1,26 @@
 [
  {
+  "date": "2026-11-21",
+  "tag": "Trending",
+  "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+  "title": "Trending on Hugging Face: thinkingmachines/Inkling-2-Mini",
+  "summary": "Task: image-text-to-text. 1249 likes, 7944 downloads."
+ },
+ {
+  "date": "2026-11-21",
+  "tag": "Trending",
+  "url": "https://huggingface.co/Sentinel7/h3",
+  "title": "Trending on Hugging Face: Sentinel7/h3",
+  "summary": "Task: n/a. 695 likes, 0 downloads."
+ },
+ {
+  "date": "2026-11-21",
+  "tag": "Trending",
+  "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+  "title": "Trending on Hugging Face: unsloth/Inkling-2-Mini-GGUF",
+  "summary": "Task: image-text-to-text. 436 likes, 238152 downloads."
+ },
+ {
   "date": "2026-11-20",
   "tag": "Trending",
   "url": "https://huggingface.co/inworld/voice-isolator",
@@ -18,6 +39,13 @@
   "tag": "Blog",
   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-20",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
   "summary": ""
  },
  {
@@ -357,6 +385,13 @@
   "summary": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 | A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-improvement loop. DSH / Claude Code / Codex."
  },
  {
+  "date": "2026-11-14",
+  "tag": "New repo",
+  "url": "https://github.com/mankidev/antialgorithm",
+  "title": "New repo: mankidev/antialgorithm (591 stars)",
+  "summary": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI."
+ },
+ {
   "date": "2026-11-13",
   "tag": "Trending",
   "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
@@ -490,6 +525,13 @@
   "summary": "让 Antigravity 少走回合、少等审查的本地规则插件（非官方）"
  },
  {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/spacesky-cell/TwinFix",
+  "title": "New repo: spacesky-cell/TwinFix (137 stars)",
+  "summary": "TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。"
+ },
+ {
   "date": "2026-11-12",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -544,6 +586,13 @@
   "url": "https://github.com/ysunyang4/webagent",
   "title": "New repo: ysunyang4/webagent (143 stars)",
   "summary": "Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用"
+ },
+ {
+  "date": "2026-11-11",
+  "tag": "New repo",
+  "url": "https://github.com/molly554/whiteboard-ai-tutor",
+  "title": "New repo: molly554/whiteboard-ai-tutor (505 stars)",
+  "summary": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards."
  },
  {
   "date": "2026-11-10",

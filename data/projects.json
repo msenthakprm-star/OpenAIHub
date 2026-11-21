@@ -1,5 +1,29 @@
 [
  {
+  "name": "antialgorithm",
+  "url": "mankidev/antialgorithm",
+  "license": "MIT",
+  "desc": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+  "usage": "git clone https://github.com/mankidev/antialgorithm.git\n# see the README for setup",
+  "found": "2026-11-21"
+ },
+ {
+  "name": "whiteboard-ai-tutor",
+  "url": "molly554/whiteboard-ai-tutor",
+  "license": "MIT",
+  "desc": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
+  "usage": "git clone https://github.com/molly554/whiteboard-ai-tutor.git\n# see the README for setup",
+  "found": "2026-11-21"
+ },
+ {
+  "name": "TwinFix",
+  "url": "spacesky-cell/TwinFix",
+  "license": "Apache-2.0",
+  "desc": "TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。",
+  "usage": "git clone https://github.com/spacesky-cell/TwinFix.git\n# see the README for setup",
+  "found": "2026-11-21"
+ },
+ {
   "name": "blender-ai-mcp-addon",
   "url": "bookwjitchieni1986/blender-ai-mcp-addon",
   "license": "MIT",
@@ -293,30 +317,6 @@
   "license": "Apache-2.0",
   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
   "usage": "git clone https://github.com/topconstableinlet67/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "ai--manus2.0",
-  "url": "tornadonovicewhirl40/ai--manus2.0",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/tornadonovicewhirl40/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "ai--manus2.0",
-  "url": "TitanShieldRavine/ai--manus2.0",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/TitanShieldRavine/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "ai--manus2.0",
-  "url": "Ultimateakiln/ai--manus2.0",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/Ultimateakiln/ai--manus2.0.git\n# see the README for setup",
   "found": "2026-11-15"
  }
 ]
