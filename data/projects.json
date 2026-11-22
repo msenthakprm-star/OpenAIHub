@@ -1,5 +1,21 @@
 [
  {
+  "name": "agy-fast",
+  "url": "INK-Q/agy-fast",
+  "license": "MIT",
+  "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+  "usage": "git clone https://github.com/INK-Q/agy-fast.git\n# see the README for setup",
+  "found": "2026-11-22"
+ },
+ {
+  "name": "PiBot",
+  "url": "w01fb0ss/PiBot",
+  "license": "Apache-2.0",
+  "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+  "usage": "git clone https://github.com/w01fb0ss/PiBot.git\n# see the README for setup",
+  "found": "2026-11-22"
+ },
+ {
   "name": "antialgorithm",
   "url": "mankidev/antialgorithm",
   "license": "MIT",
@@ -301,22 +317,6 @@
   "license": "Apache-2.0",
   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
   "usage": "git clone https://github.com/topapothecarycanal/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "ai--manus2.0",
-  "url": "toppatronweave/ai--manus2.0",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/toppatronweave/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "ai--manus2.0",
-  "url": "topconstableinlet67/ai--manus2.0",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/topconstableinlet67/ai--manus2.0.git\n# see the README for setup",
   "found": "2026-11-15"
  }
 ]
