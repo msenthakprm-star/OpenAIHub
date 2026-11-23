@@ -1,5 +1,29 @@
 [
  {
+  "name": "mobile-agent-testers",
+  "url": "pierridotite/mobile-agent-testers",
+  "license": "MIT",
+  "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+  "usage": "git clone https://github.com/pierridotite/mobile-agent-testers.git\n# see the README for setup",
+  "found": "2026-11-23"
+ },
+ {
+  "name": "MROffice",
+  "url": "XinaTian/MROffice",
+  "license": "AGPL-3.0",
+  "desc": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files...",
+  "usage": "git clone https://github.com/XinaTian/MROffice.git\n# see the README for setup",
+  "found": "2026-11-23"
+ },
+ {
+  "name": "zhichan-xiaozhan-work",
+  "url": "chuxuan861119/zhichan-xiaozhan-work",
+  "license": "GPL-3.0",
+  "desc": "面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。",
+  "usage": "git clone https://github.com/chuxuan861119/zhichan-xiaozhan-work.git\n# see the README for setup",
+  "found": "2026-11-23"
+ },
+ {
   "name": "agy-fast",
   "url": "INK-Q/agy-fast",
   "license": "MIT",
@@ -294,29 +318,5 @@
   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
   "usage": "git clone https://github.com/TurtleReside/Gemini-Config-Checker-.git\n# see the README for setup",
   "found": "2026-11-16"
- },
- {
-  "name": "antiglaude",
-  "url": "sksarvesh007/antiglaude",
-  "license": "MIT",
-  "desc": "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API",
-  "usage": "git clone https://github.com/sksarvesh007/antiglaude.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "ai--manus2.0",
-  "url": "Topkiflare74/ai--manus2.0",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/Topkiflare74/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
- },
- {
-  "name": "ai--manus2.0",
-  "url": "topapothecarycanal/ai--manus2.0",
-  "license": "Apache-2.0",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "usage": "git clone https://github.com/topapothecarycanal/ai--manus2.0.git\n# see the README for setup",
-  "found": "2026-11-15"
  }
 ]

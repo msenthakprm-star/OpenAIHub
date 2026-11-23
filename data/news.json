@@ -1,5 +1,26 @@
 [
  {
+  "date": "2026-11-23",
+  "tag": "Trending",
+  "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+  "title": "Trending on Hugging Face: SulphurAI/Sulphur-3",
+  "summary": "Task: n/a. 835 likes, 133732 downloads."
+ },
+ {
+  "date": "2026-11-23",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-23",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/agentic-evals",
+  "title": "How to build and maintain an agentic evaluation",
+  "summary": ""
+ },
+ {
   "date": "2026-11-22",
   "tag": "Trending",
   "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
@@ -175,6 +196,13 @@
   "summary": "Task: mask-generation. 6856 likes, 1971023 downloads."
  },
  {
+  "date": "2026-11-17",
+  "tag": "New repo",
+  "url": "https://github.com/chuxuan861119/zhichan-xiaozhan-work",
+  "title": "New repo: chuxuan861119/zhichan-xiaozhan-work (202 stars)",
+  "summary": "面向中国专利撰写的专业编辑器，支持发明、实用新型五书编辑和外观设计专利材料整理，提供专利库管理、二维 CAD、文档检查、AI 辅助及 Word/PDF 导出。GPL-3.0 开源。"
+ },
+ {
   "date": "2026-11-16",
   "tag": "Trending",
   "url": "https://huggingface.co/higurashi-ai/Haru-4B",
@@ -208,6 +236,13 @@
   "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
   "title": "New repo: sybil-solutions/inference-optimisation-skill (686 stars)",
   "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
+ },
+ {
+  "date": "2026-11-16",
+  "tag": "New repo",
+  "url": "https://github.com/pierridotite/mobile-agent-testers",
+  "title": "New repo: pierridotite/mobile-agent-testers (1352 stars)",
+  "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs"
  },
  {
   "date": "2026-11-15",
@@ -642,6 +677,13 @@
   "url": "https://huggingface.co/blog/decision",
   "title": "Decision Models in Hugging Face",
   "summary": ""
+ },
+ {
+  "date": "2026-11-10",
+  "tag": "New repo",
+  "url": "https://github.com/XinaTian/MROffice",
+  "title": "New repo: XinaTian/MROffice (2730 stars)",
+  "summary": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files..."
  },
  {
   "date": "2026-11-09",
