@@ -1,5 +1,29 @@
 [
  {
+  "name": "risk-aware-trading-agents",
+  "url": "jackson-cmd/risk-aware-trading-agents",
+  "license": "MIT",
+  "desc": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every...",
+  "usage": "git clone https://github.com/jackson-cmd/risk-aware-trading-agents.git\n# see the README for setup",
+  "found": "2026-11-24"
+ },
+ {
+  "name": "tinybrain",
+  "url": "logitcai/tinybrain",
+  "license": "MIT",
+  "desc": "A Chinese-first small language model built from scratch: open 60B-token dataset, tokenizer, mHC + Engram + MoE model, pretraining through RL, all in PyTorch. 从零做中文小模型，数据和代码全部开源",
+  "usage": "git clone https://github.com/logitcai/tinybrain.git\n# see the README for setup",
+  "found": "2026-11-24"
+ },
+ {
+  "name": "Mingle",
+  "url": "earayu/Mingle",
+  "license": "MIT",
+  "desc": "Bring your agent companion into the chat apps you already use. Runs on your machine, no server.",
+  "usage": "git clone https://github.com/earayu/Mingle.git\n# see the README for setup",
+  "found": "2026-11-24"
+ },
+ {
   "name": "mobile-agent-testers",
   "url": "pierridotite/mobile-agent-testers",
   "license": "MIT",
@@ -293,30 +317,6 @@
   "license": "Apache-2.0",
   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
   "usage": "git clone https://github.com/TypeTyrantScheme/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "TrooperFilter/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/TrooperFilter/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "WharfBoulderColander/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/WharfBoulderColander/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "TurtleReside/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/TurtleReside/Gemini-Config-Checker-.git\n# see the README for setup",
   "found": "2026-11-16"
  }
 ]

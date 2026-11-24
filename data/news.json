@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-24",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "summary": ""
+ },
+ {
   "date": "2026-11-23",
   "tag": "Trending",
   "url": "https://huggingface.co/SulphurAI/Sulphur-3",
@@ -595,6 +602,13 @@
   "summary": "TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。"
  },
  {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/logitcai/tinybrain",
+  "title": "New repo: logitcai/tinybrain (466 stars)",
+  "summary": "A Chinese-first small language model built from scratch: open 60B-token dataset, tokenizer, mHC + Engram + MoE model, pretraining through RL, all in PyTorch. 从零做中文小模型，数据和代码全部开源"
+ },
+ {
   "date": "2026-11-12",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -614,6 +628,13 @@
   "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
   "title": "New repo: hitkeeen/blender-ai-mcp-addon (2020 stars)",
   "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
+ },
+ {
+  "date": "2026-11-12",
+  "tag": "New repo",
+  "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+  "title": "New repo: jackson-cmd/risk-aware-trading-agents (477 stars)",
+  "summary": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every..."
  },
  {
   "date": "2026-11-11",
@@ -656,6 +677,13 @@
   "url": "https://github.com/molly554/whiteboard-ai-tutor",
   "title": "New repo: molly554/whiteboard-ai-tutor (505 stars)",
   "summary": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards."
+ },
+ {
+  "date": "2026-11-11",
+  "tag": "New repo",
+  "url": "https://github.com/earayu/Mingle",
+  "title": "New repo: earayu/Mingle (159 stars)",
+  "summary": "Bring your agent companion into the chat apps you already use. Runs on your machine, no server."
  },
  {
   "date": "2026-11-10",
