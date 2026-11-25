@@ -1,5 +1,33 @@
 [
  {
+  "date": "2026-11-25",
+  "tag": "Trending",
+  "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+  "title": "Trending on Hugging Face: prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+  "summary": "Task: text-generation. 266 likes, 59366 downloads."
+ },
+ {
+  "date": "2026-11-25",
+  "tag": "Trending",
+  "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+  "title": "Trending on Hugging Face: llamaindex/OCRia-nano-1",
+  "summary": "Task: image-to-text. 204 likes, 126 downloads."
+ },
+ {
+  "date": "2026-11-25",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "title": "An Indic Voice Agent with CUGA",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-25",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "summary": ""
+ },
+ {
   "date": "2026-11-24",
   "tag": "Blog",
   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -98,6 +126,13 @@
   "summary": ""
  },
  {
+  "date": "2026-11-20",
+  "tag": "New repo",
+  "url": "https://github.com/sous-labs/songe",
+  "title": "New repo: sous-labs/songe (832 stars)",
+  "summary": "A training engine for your local model, using your idle compute"
+ },
+ {
   "date": "2026-11-19",
   "tag": "Trending",
   "url": "https://huggingface.co/tencent/Hy4-flash",
@@ -124,6 +159,13 @@
   "url": "https://github.com/INK-Q/agy-fast",
   "title": "New repo: INK-Q/agy-fast (386 stars)",
   "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs."
+ },
+ {
+  "date": "2026-11-19",
+  "tag": "New repo",
+  "url": "https://github.com/replit/amuse",
+  "title": "New repo: replit/amuse (171 stars)",
+  "summary": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key."
  },
  {
   "date": "2026-11-18",
@@ -250,6 +292,13 @@
   "url": "https://github.com/pierridotite/mobile-agent-testers",
   "title": "New repo: pierridotite/mobile-agent-testers (1352 stars)",
   "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs"
+ },
+ {
+  "date": "2026-11-16",
+  "tag": "New repo",
+  "url": "https://github.com/waw666waw666/RegisterHub",
+  "title": "New repo: waw666waw666/RegisterHub (387 stars)",
+  "summary": "万能注册机模板 | Universal Auto-Registration Template"
  },
  {
   "date": "2026-11-15",

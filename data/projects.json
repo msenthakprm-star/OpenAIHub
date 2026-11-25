@@ -1,5 +1,45 @@
 [
  {
+  "name": "songe",
+  "url": "sous-labs/songe",
+  "license": "Apache-2.0",
+  "desc": "A training engine for your local model, using your idle compute",
+  "usage": "git clone https://github.com/sous-labs/songe.git\n# see the README for setup",
+  "found": "2026-11-25"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "TrooperFilter/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/TrooperFilter/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-25"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WharfBoulderColander/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WharfBoulderColander/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-25"
+ },
+ {
+  "name": "RegisterHub",
+  "url": "waw666waw666/RegisterHub",
+  "license": "Apache-2.0",
+  "desc": "万能注册机模板 | Universal Auto-Registration Template",
+  "usage": "git clone https://github.com/waw666waw666/RegisterHub.git\n# see the README for setup",
+  "found": "2026-11-25"
+ },
+ {
+  "name": "amuse",
+  "url": "replit/amuse",
+  "license": "Apache-2.0",
+  "desc": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.",
+  "usage": "git clone https://github.com/replit/amuse.git\n# see the README for setup",
+  "found": "2026-11-25"
+ },
+ {
   "name": "risk-aware-trading-agents",
   "url": "jackson-cmd/risk-aware-trading-agents",
   "license": "MIT",
@@ -277,46 +317,6 @@
   "license": "Apache-2.0",
   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
   "usage": "git clone https://github.com/WinnerSpecialist/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "VortexHostFeel/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/VortexHostFeel/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "WingDataVacuum/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/WingDataVacuum/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "WindGatorRise37/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/WindGatorRise37/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "weightcashiercupola/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/weightcashiercupola/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "TypeTyrantScheme/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/TypeTyrantScheme/Gemini-Config-Checker-.git\n# see the README for setup",
   "found": "2026-11-16"
  }
 ]
