@@ -1,5 +1,33 @@
 [
  {
+  "date": "2026-11-26",
+  "tag": "Trending",
+  "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+  "title": "Trending on Hugging Face: nvidia/Nemotron-Labs-Image-30B-A3B",
+  "summary": "Task: text-to-image. 234 likes, 218 downloads."
+ },
+ {
+  "date": "2026-11-26",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-26",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-26",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/training-swarms",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "summary": ""
+ },
+ {
   "date": "2026-11-25",
   "tag": "Trending",
   "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
@@ -26,6 +54,20 @@
   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
   "summary": ""
+ },
+ {
+  "date": "2026-11-25",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "title": "Where scientists draw the line on AI agents",
+  "summary": ""
+ },
+ {
+  "date": "2026-11-25",
+  "tag": "New repo",
+  "url": "https://github.com/alesha-pro/llm.asm",
+  "title": "New repo: alesha-pro/llm.asm (1223 stars)",
+  "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies."
  },
  {
   "date": "2026-11-24",
@@ -656,6 +698,13 @@
   "url": "https://github.com/logitcai/tinybrain",
   "title": "New repo: logitcai/tinybrain (466 stars)",
   "summary": "A Chinese-first small language model built from scratch: open 60B-token dataset, tokenizer, mHC + Engram + MoE model, pretraining through RL, all in PyTorch. 从零做中文小模型，数据和代码全部开源"
+ },
+ {
+  "date": "2026-11-13",
+  "tag": "New repo",
+  "url": "https://github.com/opensetlabs/openset-llm",
+  "title": "New repo: opensetlabs/openset-llm (1491 stars)",
+  "summary": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server."
  },
  {
   "date": "2026-11-12",
@@ -2049,40 +2098,5 @@
   "url": "https://github.com/whirlchat/whirl",
   "title": "New repo: whirlchat/whirl (508 stars)",
   "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
- },
- {
-  "date": "2026-10-02",
-  "tag": "New repo",
-  "url": "https://github.com/strands-agents/box",
-  "title": "New repo: strands-agents/box (399 stars)",
-  "summary": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent...."
- },
- {
-  "date": "2026-10-02",
-  "tag": "New repo",
-  "url": "https://github.com/opensec-git/Pi-Bolt",
-  "title": "New repo: opensec-git/Pi-Bolt (325 stars)",
-  "summary": "Pi, the coding agent, compiled ahead of time to native code. Starts 3× sooner than Pi on Bun and uses about a third of its CPU."
- },
- {
-  "date": "2026-09-30",
-  "tag": "Blog",
-  "url": "https://huggingface.co/blog/open-tts-leaderboard",
-  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-  "summary": ""
- },
- {
-  "date": "2026-09-29",
-  "tag": "Blog",
-  "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-  "summary": ""
- },
- {
-  "date": "2026-09-28",
-  "tag": "Blog",
-  "url": "https://huggingface.co/blog/Hcompany/holo4",
-  "title": "Holo4: powering generalist computer-use agents",
-  "summary": ""
  }
 ]

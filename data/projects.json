@@ -1,5 +1,53 @@
 [
  {
+  "name": "openset-llm",
+  "url": "opensetlabs/openset-llm",
+  "license": "MIT",
+  "desc": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+  "usage": "git clone https://github.com/opensetlabs/openset-llm.git\n# see the README for setup",
+  "found": "2026-11-26"
+ },
+ {
+  "name": "llm.asm",
+  "url": "alesha-pro/llm.asm",
+  "license": "MIT",
+  "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+  "usage": "git clone https://github.com/alesha-pro/llm.asm.git\n# see the README for setup",
+  "found": "2026-11-26"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "weightcashiercupola/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/weightcashiercupola/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-26"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WindGatorRise37/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WindGatorRise37/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-26"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WingDataVacuum/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WingDataVacuum/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-26"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "TypeTyrantScheme/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/TypeTyrantScheme/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-26"
+ },
+ {
   "name": "songe",
   "url": "sous-labs/songe",
   "license": "Apache-2.0",
@@ -270,53 +318,5 @@
   "desc": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
   "usage": "git clone https://github.com/ysunyang4/Nexus.git\n# see the README for setup",
   "found": "2026-11-17"
- },
- {
-  "name": "webagent",
-  "url": "ysunyang4/webagent",
-  "license": "GPL-3.0",
-  "desc": "Nexus 的浏览器插件：让 DeepSeek、Gemini、ChatGPT、Kimi 等网页版 AI 通过 MCP 调用本地工具，需配合 Nexus 使用",
-  "usage": "git clone https://github.com/ysunyang4/webagent.git\n# see the README for setup",
-  "found": "2026-11-17"
- },
- {
-  "name": "sand3d",
-  "url": "Sandflow-ai/sand3d",
-  "license": "Apache-2.0",
-  "desc": "3D modeling in Python, built for LLMs.",
-  "usage": "git clone https://github.com/Sandflow-ai/sand3d.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "blender-ai-mcp-addon",
-  "url": "hitkeeen/blender-ai-mcp-addon",
-  "license": "MIT",
-  "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-  "usage": "git clone https://github.com/hitkeeen/blender-ai-mcp-addon.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "YellowLaborerMarket/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/YellowLaborerMarket/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "WireProvostPucker/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/WireProvostPucker/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "WinnerSpecialist/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/WinnerSpecialist/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-16"
  }
 ]
