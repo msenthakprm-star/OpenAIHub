@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-11-27",
+  "tag": "Trending",
+  "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+  "title": "Trending on Hugging Face: strata-engine/Inkling-2-Mini-Strata",
+  "summary": "Task: image-text-to-text. 269 likes, 4532 downloads."
+ },
+ {
+  "date": "2026-11-27",
+  "tag": "Blog",
+  "url": "https://huggingface.co/blog/video-trainium3",
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "summary": ""
+ },
+ {
   "date": "2026-11-26",
   "tag": "Trending",
   "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
@@ -341,6 +355,13 @@
   "url": "https://github.com/waw666waw666/RegisterHub",
   "title": "New repo: waw666waw666/RegisterHub (387 stars)",
   "summary": "万能注册机模板 | Universal Auto-Registration Template"
+ },
+ {
+  "date": "2026-11-16",
+  "tag": "New repo",
+  "url": "https://github.com/KaelLee335/enterprise-support-agent-v2",
+  "title": "New repo: KaelLee335/enterprise-support-agent-v2 (142 stars)",
+  "summary": "面向电商售后场景的 Python Agent 全栈演示：FastAPI、SQLite、LangChain/LangGraph、Chroma RAG、Vue 与 Langfuse。涵盖租户权限、人工审批、MockShop/物流集成与评估。"
  },
  {
   "date": "2026-11-15",
@@ -2077,26 +2098,5 @@
   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
   "summary": ""
- },
- {
-  "date": "2026-10-02",
-  "tag": "New repo",
-  "url": "https://github.com/QingYunA/answer-me-with-html",
-  "title": "New repo: QingYunA/answer-me-with-html (3336 stars)",
-  "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
- },
- {
-  "date": "2026-10-02",
-  "tag": "New repo",
-  "url": "https://github.com/Harvil1/codeAgent",
-  "title": "New repo: Harvil1/codeAgent (573 stars)",
-  "summary": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a..."
- },
- {
-  "date": "2026-10-02",
-  "tag": "New repo",
-  "url": "https://github.com/whirlchat/whirl",
-  "title": "New repo: whirlchat/whirl (508 stars)",
-  "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
  }
 ]

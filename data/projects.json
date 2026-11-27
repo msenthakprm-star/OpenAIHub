@@ -1,5 +1,37 @@
 [
  {
+  "name": "Gemini-Config-Checker-",
+  "url": "YellowLaborerMarket/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/YellowLaborerMarket/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-27"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WinnerSpecialist/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WinnerSpecialist/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-27"
+ },
+ {
+  "name": "Gemini-Config-Checker-",
+  "url": "WireProvostPucker/Gemini-Config-Checker-",
+  "license": "Apache-2.0",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "usage": "git clone https://github.com/WireProvostPucker/Gemini-Config-Checker-.git\n# see the README for setup",
+  "found": "2026-11-27"
+ },
+ {
+  "name": "enterprise-support-agent-v2",
+  "url": "KaelLee335/enterprise-support-agent-v2",
+  "license": "MIT",
+  "desc": "面向电商售后场景的 Python Agent 全栈演示：FastAPI、SQLite、LangChain/LangGraph、Chroma RAG、Vue 与 Langfuse。涵盖租户权限、人工审批、MockShop/物流集成与评估。",
+  "usage": "git clone https://github.com/KaelLee335/enterprise-support-agent-v2.git\n# see the README for setup",
+  "found": "2026-11-27"
+ },
+ {
   "name": "openset-llm",
   "url": "opensetlabs/openset-llm",
   "license": "MIT",
@@ -285,38 +317,6 @@
   "license": "Apache-2.0",
   "desc": "Can AI agents rebuild websites through browser exploration?",
   "usage": "git clone https://github.com/TIGER-AI-Lab/WebsiteBench.git\n# see the README for setup",
-  "found": "2026-11-17"
- },
- {
-  "name": "Gemini-Config-Checker-",
-  "url": "Violetnyudress/Gemini-Config-Checker-",
-  "license": "Apache-2.0",
-  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-  "usage": "git clone https://github.com/Violetnyudress/Gemini-Config-Checker-.git\n# see the README for setup",
-  "found": "2026-11-17"
- },
- {
-  "name": "pinky",
-  "url": "DIYgod/pinky",
-  "license": "Apache-2.0",
-  "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-  "usage": "git clone https://github.com/DIYgod/pinky.git\n# see the README for setup",
-  "found": "2026-11-17"
- },
- {
-  "name": "dsh-game-studio",
-  "url": "ZSeven-W/dsh-game-studio",
-  "license": "MIT",
-  "desc": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-  "usage": "git clone https://github.com/ZSeven-W/dsh-game-studio.git\n# see the README for setup",
-  "found": "2026-11-17"
- },
- {
-  "name": "Nexus",
-  "url": "ysunyang4/Nexus",
-  "license": "AGPL-3.0",
-  "desc": "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent",
-  "usage": "git clone https://github.com/ysunyang4/Nexus.git\n# see the README for setup",
   "found": "2026-11-17"
  }
 ]
